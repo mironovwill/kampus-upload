@@ -1,0 +1,14 @@
+{
+  "видео": {"id": 12, "topicTypeId": 4},
+  "внешний курс": {"id": 1, "topicTypeId": 20},
+  "книга": {"id": 7, "topicTypeId": 16},
+  "корпоративный курс с согласованием": { "id": 2, "topicTypeId": 17 },
+  "корпоративный курс без согласования": { "id": 2, "topicTypeId": 35 },
+  "материал smart reading": { "id": 14, "topicTypeId": 16 },
+  "опрос": { "id": 10, "topicTypeId": 15 },
+  "подкасты": { "id": 13, "topicTypeId": 4 },
+  "обучение на рабочем месте": { "id": 4, "topicTypeId": 25 },
+  "статья": { "id": 8, "topicTypeId": 15 },
+  "тест": { "id": 9, "topicTypeId": 15 },
+  "электронный курс": { "id": 5, "topicTypeId": 1 }
+}
