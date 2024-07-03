@@ -25,7 +25,7 @@ async function createTopic(url, token, body) {
     result.push({ [response.data.name]: response.data.publicUrl });
   } catch (error) {
     result.push({ error: error });
-    console.error('Ошибка при отправке файла:', error);
+    console.error('Ошибка при отправке файла:', error.response.data);
   }
 }
 
