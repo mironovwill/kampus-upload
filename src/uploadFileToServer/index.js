@@ -25,6 +25,7 @@ async function uploadFileToServer(filePath, url, token) {
       },
       httpsAgent: agent
     });
+    console.log(response.data)
     return response.data;
   } catch (error) {
     console.error('Ошибка при отправке файла:', error);
