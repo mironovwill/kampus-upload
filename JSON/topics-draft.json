@@ -1,40 +1,4172 @@
 [
   {
-    "typeLabelId": "электронный курс",
-    "topicMandatory": "OPTIONAL",
-    "topicCompetenceCategory": "FUNCTIONAL",
-    "tags": "решения бизнесзадач, дизайн-мышление, креатив, продуктовый подход",
-    "skillNames": "",
-    "publisher": "",
-    "name": "Дизайн-мышление E-Learning",
-    "levelId": "Базовый",
-    "languageId": "Русский",
-    "jobLevels": "",
-    "jobFamilies": "Sales",
-    "duration": "60",
-    "description": "Этот ЛОНГРИД менее чем за 1 час расскажет тебе об одном из продуктовых подходов и творческом способе решения бизнесзадач. \nЗдесь ты найдешь описание разных инструментов и фреймворков, которые доступны для скачивания, а также список полезных ссылок на материалы и ресурсы для развития в себе ДИЗАЙН МЫСЛИТЕЛЯ :)",
-    "thumbFileUuid": "Картинка_дизайн_мышление.png",
-    "cost": "0",
-    "authorNames": "",
-    "links ": ""
+    "topicTitle": "Дизайн-мышление E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Дизайн-мышление: лонгрид",
+    "fileName": "дизайн-мышление-scorm2004_4-vq6lDv1-.zip"
   },
   {
-    "typeLabelId": "электронный курс",
-    "topicMandatory": "MANDATORY",
-    "topicCompetenceCategory": "FUNCTIONAL",
-    "tags": "переговоры, сотрудничество, nego, negotiation skills, навыки переговоров, партнерство, партнерские отношения",
-    "skillNames": "",
-    "publisher": "",
-    "name": "Навыки успешных переговоров E-Learning",
-    "levelId": "Базовый",
-    "languageId": "Русский",
-    "jobLevels": "",
-    "jobFamilies": "Sales",
-    "duration": "90",
-    "description": "«Ведение переговоров» - один из ТОП навыков, необходимых в современных реалиях для успешного развития бизнеса вместе с нашими клиентами! Этот короткий обучающий модуль расскажет о базовых навыках переговоров. В нем пойдет речь о структуре подготовки, об эффективном обмене информацией и уступками, о том, как делать, и как принимать предложения и о создании атмосферы сотрудничества",
-    "thumbFileUuid": "лого_навыки_продаж.jpg",
-    "cost": "0",
-    "authorNames": "",
-    "links ": ""
+    "topicTitle": "Навыки успешных переговоров E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Основы эффективных переговоров",
+    "fileName": "навыки-успешных-переговоров-scorm2004_4-trRO6Syn.zip"
+  },
+  {
+    "topicTitle": "Убедительный метод продаж E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Убедительный метод продаж",
+    "fileName": "Убедительный метод продаж.zip"
+  },
+  {
+    "topicTitle": "ON JOB TRAINING (OJT) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "OJT - Обучение на рабочем месте",
+    "fileName": "Territory management. Обучение.zip"
+  },
+  {
+    "topicTitle": "Шаги делового визита: LASER E-Learning",
+    "blockType": "SCORM",
+    "blockName": "LASER",
+    "fileName": "LASER e-learning (1).zip"
+  },
+  {
+    "topicTitle": "OSA: On-Shelf Availability Management E-learning",
+    "blockType": "SCORM",
+    "blockName": "OSA: On-Shelf Availability Management",
+    "fileName": "OSA_Mars.zip"
+  },
+  {
+    "topicTitle": "Digital for Non Digitals E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Digital for Non Digitals e-learning",
+    "fileName": "530001.zip"
+  },
+  {
+    "topicTitle": "Основы управления категорией (Category Essentials) X-segment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Category Essentials e-learning",
+    "fileName": "813065.zip"
+  },
+  {
+    "topicTitle": "Insights E-learning",
+    "blockType": "SCORM",
+    "blockName": "Insights e-learning",
+    "fileName": "65001.zip"
+  },
+  {
+    "topicTitle": "Mars P&L Finance (Mars Wrigley) E-learning",
+    "blockType": "SCORM",
+    "blockName": "P&L Finance",
+    "fileName": "P&L.zip"
+  },
+  {
+    "topicTitle": "TE&ROI Finance (Mars Wrigley) E-learning",
+    "blockType": "SCORM",
+    "blockName": "Торговые инвестиции & ROI",
+    "fileName": "21APR_S&F_TEROI_RU.zip"
+  },
+  {
+    "topicTitle": "Trading terms Finance (Mars Wrigley) E-learning",
+    "blockType": "SCORM",
+    "blockName": "Торговые условия",
+    "fileName": "Торговые условия.zip"
+  },
+  {
+    "topicTitle": "Программа: Strategic Revenue Managment (SRM). Module 1: Introduction E-learning",
+    "blockType": "SCORM",
+    "blockName": "Introduction E-learning",
+    "fileName": "C10248.zip"
+  },
+  {
+    "topicTitle": "Программа: Strategic Revenue Managment (SRM). Module 2: Mix for Growth E-learning",
+    "blockType": "SCORM",
+    "blockName": "Mix for Growth E-learning",
+    "fileName": "C10302.zip"
+  },
+  {
+    "topicTitle": "Программа: Strategic Revenue Managment (SRM). Module 3: Strategic Pricing E-learning",
+    "blockType": "SCORM",
+    "blockName": "Strategic Pricing E-learning",
+    "fileName": "C10303.zip"
+  },
+  {
+    "topicTitle": "Программа: Strategic Revenue Managment (SRM). Module 4: Trade Promotions Excellence E-learning",
+    "blockType": "SCORM",
+    "blockName": "Trade Promotions Excellence E-learning",
+    "fileName": "C10304.zip"
+  },
+  {
+    "topicTitle": "Программа: Strategic Revenue Managment (SRM). Module 5: Trade Terms Management E-learning",
+    "blockType": "SCORM",
+    "blockName": "Trade Terms Management E-learning",
+    "fileName": "C10305.zip"
+  },
+  {
+    "topicTitle": "Program: Finance. Module 1: How Customers Make Money E-learning",
+    "blockType": "SCORM",
+    "blockName": "How Customers Make Money E-learning",
+    "fileName": "Mars_FE_BF_How_customers_220923.zip"
+  },
+  {
+    "topicTitle": "Program: Finance. Module 2: Profit Margin and Mark-up E-learning",
+    "blockType": "SCORM",
+    "blockName": "Profit Margin and Mark-up E-learning",
+    "fileName": "Mars_FE_BF_Profit_margin_220923.zip"
+  },
+  {
+    "topicTitle": "Program: Finance. Module 3: Calculation Challenge E-learning",
+    "blockType": "SCORM",
+    "blockName": "Calculation Challenge E-learning",
+    "fileName": "3p11484_2022_01_25_15_09_38(EN).zip"
+  },
+  {
+    "topicTitle": "Program: Finance. Module 4: Listen to The Expert E-learning",
+    "blockType": "SCORM",
+    "blockName": "Listen to The Expert E-learning",
+    "fileName": "4p11485_2022_01_25_15_22_15(EN).zip"
+  },
+  {
+    "topicTitle": "Program: Finance. Module 5: Check What You Know E-learning",
+    "blockType": "SCORM",
+    "blockName": "Check What You Know E-learning",
+    "fileName": "5p11408_2018_03_05_11_50_22(EN).zip"
+  },
+  {
+    "topicTitle": "Program: Finance. Module 6: Second Wind: Check What You Know E-learning",
+    "blockType": "SCORM",
+    "blockName": "Second Wind: Check What You Know E-learning",
+    "fileName": "6p11989_2022_01_25_15_46_06(EN).zip"
+  },
+  {
+    "topicTitle": "Введение в S&OP+ E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Введение в S&OP+",
+    "fileName": "S&OP+ Introduction eLearning.zip"
+  },
+  {
+    "topicTitle": "Философия роста E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Философия роста",
+    "fileName": "540002.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 1: Growth Philosophy E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Growth Philosophy",
+    "fileName": "C10004_v4.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 2: Financial Statements E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Financial Statements",
+    "fileName": "C10005_v3.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 3: Financial KPIs and Accountability E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Financial KPIs and Accountability",
+    "fileName": "C10006_v3.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 4: Driving the Top-Line E-learning",
+    "blockType": "SCORM",
+    "blockName": "Driving the Top-Line",
+    "fileName": "C10007_v4.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 5: Driving the Bottom-Line E-learning",
+    "blockType": "SCORM",
+    "blockName": "Driving the Bottom-Line",
+    "fileName": "C10008_v4.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 6: Driving Cash E-learning",
+    "blockType": "SCORM",
+    "blockName": "Driving Cash",
+    "fileName": "C10009_v3.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 7: Digital Tools E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Digital Tools",
+    "fileName": "C10010_v3.zip"
+  },
+  {
+    "topicTitle": "Программа: Finance Foundations. Module 8: Financial KPIs in the Veterinary World and Conclusion E-learning",
+    "blockType": "SCORM",
+    "blockName": "Financial KPIs in the Veterinary World and Conclusion",
+    "fileName": "C10011_v4.zip"
+  },
+  {
+    "topicTitle": "Программа: Spark Your Engagement. Module 1: Seize your opportunity E-learning",
+    "blockType": "SCORM",
+    "blockName": "Seize your opportunity",
+    "fileName": "820003.zip"
+  },
+  {
+    "topicTitle": "Программа: Spark Your Engagement. Module 2: Find your purpose E-learning",
+    "blockType": "SCORM",
+    "blockName": "Find your purpose",
+    "fileName": "820004.zip"
+  },
+  {
+    "topicTitle": "Программа: Spark Your Engagement. Module 3: Be yourself E-learning",
+    "blockType": "SCORM",
+    "blockName": "Be yourself",
+    "fileName": "820005.zip"
+  },
+  {
+    "topicTitle": "Программа: Spark Your Engagement. Module 4: Get what you need E-learning",
+    "blockType": "SCORM",
+    "blockName": "Get what you need",
+    "fileName": "820006.zip"
+  },
+  {
+    "topicTitle": "Программа: Spark Your Engagement. Module 5: Manage your manager E-learning",
+    "blockType": "SCORM",
+    "blockName": "Manage your manager",
+    "fileName": "820007.zip"
+  },
+  {
+    "topicTitle": "Программа: Spark Your Engagement. Module 6: Keep evolving E-learning",
+    "blockType": "SCORM",
+    "blockName": "Keep evolving",
+    "fileName": "820008.zip"
+  },
+  {
+    "topicTitle": "Программа: Shopper Marketing for One Demand. Module 1: Overview E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Overview",
+    "fileName": "TrinitiMarsShopperMarketing1Overview.zip"
+  },
+  {
+    "topicTitle": "Программа: Shopper Marketing for One Demand. Module 2: Triple Win E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Triple Win",
+    "fileName": "TrinitiMarsShopperMarketing2TripleWin.zip"
+  },
+  {
+    "topicTitle": "Программа: Shopper Marketing for One Demand. Module 3: Winning Value Propositions E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Winning Value Propositions",
+    "fileName": "TrinitiMarsShopperMarketing3WinningValuePropositions.zip"
+  },
+  {
+    "topicTitle": "Программа: Shopper Marketing for One Demand. Module 4: The Customer Journey E-Learning",
+    "blockType": "SCORM",
+    "blockName": "The Customer Journey",
+    "fileName": "TrinitiMarsShopperMarketing4TheConsumerJourney.zip"
+  },
+  {
+    "topicTitle": "Программа: Shopper Marketing for One Demand. Module 5: Evaluation Impact E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Evaluation Impact",
+    "fileName": "TrinitiMarsShopperMarketing5EvaluatingImpact.zip"
+  },
+  {
+    "topicTitle": "Программа: Shopper Marketing for One Demand. Module 6: Take It Further E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Take It Further",
+    "fileName": "TrinitiMarsShopperMarketing6TakeItFurther.zip"
+  },
+  {
+    "topicTitle": "Demand Planning E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Demand Planning",
+    "fileName": "Demand Essentials eLearning_SCORM package04.zip"
+  },
+  {
+    "topicTitle": "Overview of Flywheel E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Overview of Flywheel",
+    "fileName": "18NOV_PO_FO_EN.zip"
+  },
+  {
+    "topicTitle": "Best Next Move E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Best Next Move",
+    "fileName": "40579.zip"
+  },
+  {
+    "topicTitle": "Agile Essentials E-learning",
+    "blockType": "SCORM",
+    "blockName": "Agile Essentials",
+    "fileName": "C10230.zip"
+  },
+  {
+    "topicTitle": "Value Creation: Fundamentals of Value Creation and Economic Profit E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Value Creation: Fundamentals of Value Creation and Economic Profit",
+    "fileName": "21JUN_SF_VCEP_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Information Security. Module 1: Your Responsibility at Mars E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Your Responsibility at Mars",
+    "fileName": "536001.zip"
+  },
+  {
+    "topicTitle": "Программа: Information Security. Module 2: Protecting Your Digital Identity E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Protecting Your Digital Identity",
+    "fileName": "642001.zip"
+  },
+  {
+    "topicTitle": "Программа: Information Security. Module 3: Device and Online Safety E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Device and Online Safety E-Learning",
+    "fileName": "678001.zip"
+  },
+  {
+    "topicTitle": "Программа: Information Security. Module 4: Preventing Email Cyber-Attacks E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Preventing Email Cyber-Attacks",
+    "fileName": "679001.zip"
+  },
+  {
+    "topicTitle": "Программа: Information Security: Preventing Mobile Cyber-Attacks E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Preventing Mobile Cyber-Attacks",
+    "fileName": "680001.zip"
+  },
+  {
+    "topicTitle": "Data Stewardship Introduction. Course by Data & Analytics PN Russia E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Data Stewardship Introduction. Course by Data & Analytics PN Russia",
+    "fileName": "829003_v2.zip"
+  },
+  {
+    "topicTitle": "Introduction to working with hypotheses (HADI cycle) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Introduction to working with hypotheses (HADI cycle)",
+    "fileName": "21DEC_DIG_HADI_RU.zip"
+  },
+  {
+    "topicTitle": "Information Security E-learning",
+    "blockType": "SCORM",
+    "blockName": "Information Security E-learning",
+    "fileName": "C10236.zip"
+  },
+  {
+    "topicTitle": "Information Security Issues Management E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Information Security Issues Management",
+    "fileName": "C10401.zip"
+  },
+  {
+    "topicTitle": "Python Course for Beginners E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Python Course for Beginners",
+    "fileName": "Python for data analysis - Beginner - scrom 1.2.zip"
+  },
+  {
+    "topicTitle": "Allergens and their Management Foundations E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Allergens and their Management Foundations",
+    "fileName": "790001_v1.zip"
+  },
+  {
+    "topicTitle": "An Introduction to Audit at Mars E-Learning",
+    "blockType": "SCORM",
+    "blockName": "An Introduction to Audit at Mars",
+    "fileName": "00003604_1.zip"
+  },
+  {
+    "topicTitle": "Work at Height Standard E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Work at Height Standard",
+    "fileName": "17OCT_SUP_WAHS.zip"
+  },
+  {
+    "topicTitle": "Serious Injury and Fatalities (SIF) & Potential SIF E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Serious Injury and Fatalities (SIF) & Potential SIF",
+    "fileName": "18MAR_SUP_SIFP_ENG.zip"
+  },
+  {
+    "topicTitle": "Work at Height E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Work at Height",
+    "fileName": "18MAR_SUP_WAH_ENG.zip"
+  },
+  {
+    "topicTitle": "Work at Height Awareness Coaching E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Work at Height Awareness Coaching",
+    "fileName": "09MAR_MSE_WAH_EN.zip"
+  },
+  {
+    "topicTitle": "Workplace Transport Standard and Specification E-learning",
+    "blockType": "SCORM",
+    "blockName": "Workplace Transport Standard and Specification",
+    "fileName": "18MAR_SUPP_WT_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Workplace Transport Awareness Coaching E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Workplace Transport Awareness Coaching",
+    "fileName": "17MAR_MSE_WPT_EN.zip"
+  },
+  {
+    "topicTitle": "CMOS Awareness Program E-Learning",
+    "blockType": "SCORM",
+    "blockName": "CMOS Awareness Program",
+    "fileName": "18APR_SUPP_CMOS_V1_ENG.zip"
+  },
+  {
+    "topicTitle": "LOTO Standard and Specification E-Learning",
+    "blockType": "SCORM",
+    "blockName": "LOTO Standard and Specification",
+    "fileName": "18JUN_SUPI_LOTO_EN.zip"
+  },
+  {
+    "topicTitle": "LOTO - Standard and Specification Awareness Coaching E-Learning",
+    "blockType": "SCORM",
+    "blockName": "LOTO - Standard and Specification Awareness Coaching",
+    "fileName": "17MAR_MSE_LOTO_EN.zip"
+  },
+  {
+    "topicTitle": "Lead Safe Foundation CIS E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Lead Safe Foundation CIS",
+    "fileName": "18JUL_SUPD_LEADSAF_RUS.zip"
+  },
+  {
+    "topicTitle": "Introduction to Health, Safety and Environmental Management Systems E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Introduction to Health, Safety and Environmental Management Systems",
+    "fileName": "20JUN_SUP_IHSAEMS_EN.zip"
+  },
+  {
+    "topicTitle": "SIG for Operations 2025 Strategy Awareness E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SIG for Operations 2025 Strategy Awareness",
+    "fileName": "SIG_v7.zip"
+  },
+  {
+    "topicTitle": "MSE ET Expert Trainer E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Outstanding Competencies",
+    "fileName": "20APR_SUPI_OC_RU.zip"
+  },
+  {
+    "topicTitle": "MSE ET Expert Trainer E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Classroom Management",
+    "fileName": "20APR_SUPI_CMR_RU.zip"
+  },
+  {
+    "topicTitle": "MSE ET Expert Trainer E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Increasing Engagement",
+    "fileName": "20APR_SUPI_IER_RU.zip"
+  },
+  {
+    "topicTitle": "Lifting Equipment and Operation (LEO) Standard and Specification E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Lifting Equipment and Operation (LEO) Standard and Specification",
+    "fileName": "20MAY_MSEA_LEAOSNS_EN.zip"
+  },
+  {
+    "topicTitle": "SiG for Logistics E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SiG for Logistics",
+    "fileName": "C10257v2.zip"
+  },
+  {
+    "topicTitle": "Introduction to SiG for LOGISTICS E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Introduction to SiG for LOGISTICS",
+    "fileName": "C10710.zip"
+  },
+  {
+    "topicTitle": "Introduction to SiG E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Introduction to SiG",
+    "fileName": "C10711.zip"
+  },
+  {
+    "topicTitle": "S&OE Introduction E-Learning",
+    "blockType": "SCORM",
+    "blockName": "S&OE Introduction",
+    "fileName": "C10482.zip"
+  },
+  {
+    "topicTitle": "Программа: End to End Supply Chain Immersion. Module 1: Introduction E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Module 1: Introduction",
+    "fileName": "C10535v3.zip"
+  },
+  {
+    "topicTitle": "Программа: End to End Supply Chain Immersion. Module 2: Functional Deep Dive and KPIs E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Module 2: Functional Deep Dive and KPIs",
+    "fileName": "C10536v4.zip"
+  },
+  {
+    "topicTitle": "Программа: End to End Supply Chain Immersion. Module 3: Strategic Business Planning & Execution E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Module 3: Strategic Business Planning & Execution",
+    "fileName": "end-to-end-supply-chain-immersion-program-module-3-strategic-business-planning-execution-scorm12-zXL7sWCN (2).zip"
+  },
+  {
+    "topicTitle": "Introduction to Enterprise Planning E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Introduction to Enterprise Planning",
+    "fileName": "C10588v2.zip"
+  },
+  {
+    "topicTitle": "Capital Project Assessment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Capital Project Assessment",
+    "fileName": "21FEB_SUP_CPA.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Evaluation of Capital Investments - Week 2 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Evaluation of Capital Investments",
+    "fileName": "C10336.zip"
+  },
+  {
+    "topicTitle": "Supply Metrics: Driving Performance E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Supply Metrics: Driving Performance",
+    "fileName": "21JAN_SUP_SMDP_EN.zip"
+  },
+  {
+    "topicTitle": "The Role of Industrial Engineer E-Learning",
+    "blockType": "SCORM",
+    "blockName": "The Role of Industrial Engineer",
+    "fileName": "21MARCH_SUPP_ROIE_EN.zip"
+  },
+  {
+    "topicTitle": "Masterplanning E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Masterplanning",
+    "fileName": "cninv000000000028222.zip"
+  },
+  {
+    "topicTitle": "EWP Communication: Standardizing communication across teams  E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Communication: Standardizing communication across teams",
+    "fileName": "818037.zip"
+  },
+  {
+    "topicTitle": "EWP Schedule: Managing the critical path for project delivery E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Schedule: Managing the critical path for project delivery",
+    "fileName": "818038.zip"
+  },
+  {
+    "topicTitle": "EWP Scope and Risk: Identifying scope and risks to define success E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Scope and Risk: Identifying scope and risks to define success",
+    "fileName": "818039.zip"
+  },
+  {
+    "topicTitle": "EWP Safety: Managing and controlling safety hazards E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Safety: Managing and controlling safety hazards",
+    "fileName": "818048.zip"
+  },
+  {
+    "topicTitle": "EWP Cost and Budget: Organizing and controlling project costs E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Cost and Budget: Organizing and controlling project costs",
+    "fileName": "818049.zip"
+  },
+  {
+    "topicTitle": "EWP CVS: Ensuring safe and efficient startup of equipment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP CVS: Ensuring safe and efficient startup of equipment",
+    "fileName": "818050.zip"
+  },
+  {
+    "topicTitle": "EWP Control: Building controls for project success E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Control: Building controls for project success",
+    "fileName": "818051.zip"
+  },
+  {
+    "topicTitle": "EWP Procurement and Specifications: Competitively procuring fit-for-purpose assets E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Procurement and Specifications: Competitively procuring fit-for-purpose assets",
+    "fileName": "818052.zip"
+  },
+  {
+    "topicTitle": "EWP Closeout: Ensuring continuous improvement and formal project closure E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Closeout: Ensuring continuous improvement and formal project closure",
+    "fileName": "818053.zip"
+  },
+  {
+    "topicTitle": "EWP Program Introduction: Defining the EWP Training Intent and Navigation E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Program Introduction: Defining the EWP Training Intent and Navigation",
+    "fileName": "818054.zip"
+  },
+  {
+    "topicTitle": "EWP Construction Safety Playbook E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Construction Safety Playbook",
+    "fileName": "818055.zip"
+  },
+  {
+    "topicTitle": "EWP Control Tools E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Control Tools",
+    "fileName": "818056.zip"
+  },
+  {
+    "topicTitle": "EWP Learning From Past Experience (LFPE) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "EWP Learning From Past Experience (LFPE)",
+    "fileName": "818057.zip"
+  },
+  {
+    "topicTitle": "Asset Health Check Fundamentals E-learning",
+    "blockType": "SCORM",
+    "blockName": "Asset Health Check Fundamentals",
+    "fileName": "Asset Health Check - 2021 RU.zip"
+  },
+  {
+    "topicTitle": "Global Supply Onboarding Start Phase E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Global Supply Onboarding Start Phase",
+    "fileName": "C10149v2.zip"
+  },
+  {
+    "topicTitle": "Value engineering E-learning",
+    "blockType": "SCORM",
+    "blockName": "Value engineering",
+    "fileName": "C10177.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Value Proposition, Value Creation and Business Models - Week 1 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Value Proposition, Value Creation and Business Models",
+    "fileName": "C10332.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Value Proposition and Customer Perspective - Week 1 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Value Proposition and Customer Perspective",
+    "fileName": "C10333.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: EP-Week 2 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: EP",
+    "fileName": "C10337_v2.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: FATR - Week 2 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: FATR",
+    "fileName": "C10338.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Activity Business to Model - Week 2 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Activity Business to Mode",
+    "fileName": "C10339.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Designing the Business Model & Target Costing - Week 3 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Designing the Business Model & Target Costing",
+    "fileName": "C10341.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Complexity Costing - Week 3 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Complexity Costing",
+    "fileName": "C10343.zip"
+  },
+  {
+    "topicTitle": "Advanced Business and Financial Acumen: Supply Networking Strategy - Week 4 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Advanced Business and Financial Acumen: Supply Networking Strategy",
+    "fileName": "C10346.zip"
+  },
+  {
+    "topicTitle": "Early Scope Alignment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Early Scope Alignment",
+    "fileName": "C10440_v3.zip"
+  },
+  {
+    "topicTitle": "Power BI. Beginner. Course by Data & Analytics PN Russia E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Power BI. Beginner. Course by Data & Analytics PN Russia",
+    "fileName": "PBI Beginner - scorm 1.2.zip"
+  },
+  {
+    "topicTitle": "Power BI. PRO. Course by Data & Analytics PN Russia E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Power BI. PRO. Course by Data & Analytics PN Russia",
+    "fileName": "PBI PRO - scorm 1.2.zip"
+  },
+  {
+    "topicTitle": "SQL – Beginner. Course by Data & Analytics PN Russia E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SQL – Beginner. Course by Data & Analytics PN Russia",
+    "fileName": "(822020v3)_SQL Beginner - scorm 1.2.zip"
+  },
+  {
+    "topicTitle": "SQL – PRO. Course by Data & Analytics PN Russia E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SQL – PRO. Course by Data & Analytics PN Russia",
+    "fileName": "(C10526ver1)_SQL PRO - scorm 1.2.zip"
+  },
+  {
+    "topicTitle": "Product Management Beginner E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Product Management Beginner E-learning",
+    "fileName": "C10199.zip"
+  },
+  {
+    "topicTitle": "Powered by Data: Data for Leaders E-learning",
+    "blockType": "SCORM",
+    "blockName": "Powered by Data: Data for Leaders E-learning",
+    "fileName": "C10211_Edited2.zip"
+  },
+  {
+    "topicTitle": "Data Stewardship for Data Stewards (PRO). Course by Data & Analytics PN Russia E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Data Stewardship for Data Stewards (PRO). Course by Data & Analytics PN Russia",
+    "fileName": "C10566.zip"
+  },
+  {
+    "topicTitle": "Recruiting with Excellence E-Learning",
+    "blockType": "scorm",
+    "blockName": "Recruiting with Excellence",
+    "fileName": "795001.zip"
+  },
+  {
+    "topicTitle": "Elements of Pay at Mars E-Learning",
+    "blockType": "scorm",
+    "blockName": "Elements of Pay at Mars",
+    "fileName": "00040985.zip"
+  },
+  {
+    "topicTitle": "MDR 2.0 Introduction: Business Leaders E-Learning",
+    "blockType": "scorm",
+    "blockName": "MDR 2.0 Introduction: Business Leaders",
+    "fileName": "20AUG_PO_MDRFBL_EN.zip"
+  },
+  {
+    "topicTitle": "Ombudsman Program E-Learning",
+    "blockType": "scorm",
+    "blockName": "Ombudsman Program",
+    "fileName": "C10701.zip"
+  },
+  {
+    "topicTitle": "Leader Roles & Responsibilities in MDR Video",
+    "blockType": "видео",
+    "blockName": "Leader Roles & Responsibilities in MDR Video",
+    "fileName": "17JUL_PO_BLR_ENG.mp4"
+  },
+  {
+    "topicTitle": "Succession Planning Overview Video ",
+    "blockType": "видео",
+    "blockName": "Succession Planning Overview Video ",
+    "fileName": "17JUL_PO_SPV_ENG.mp4"
+  },
+  {
+    "topicTitle": "The P&O Role in MDR Video",
+    "blockType": "видео",
+    "blockName": "The P&O Role in MDR Video",
+    "fileName": "17JUL_PO_POR_ENG.mp4"
+  },
+  {
+    "topicTitle": "MDR Overview:Video",
+    "blockType": "видео",
+    "blockName": "MDR Overview:Video",
+    "fileName": "17AUG_PO_MDRVID_ENG.mp4"
+  },
+  {
+    "topicTitle": "MDR 2.0 Introduction: Associates E-Learning",
+    "blockType": "scorm",
+    "blockName": "MDR 2.0 Introduction: Associates",
+    "fileName": "20AUG_PO_MDROVER_EN.zip"
+  },
+  {
+    "topicTitle": "Organizational Development E-Learning",
+    "blockType": "scorm",
+    "blockName": "Organizational Development",
+    "fileName": "18APR_PO_ODF_ENG.zip"
+  },
+  {
+    "topicTitle": "P&O Data and Analytics E Learning",
+    "blockType": "scorm",
+    "blockName": "P&O Data and Analytics",
+    "fileName": "18FEB_PO_FODAAFPO_ENG.zip"
+  },
+  {
+    "topicTitle": "Networking at Mars Video",
+    "blockType": "scorm",
+    "blockName": "Networking at Mars Video",
+    "fileName": "469001.zip"
+  },
+  {
+    "topicTitle": "The Mars People Strategy Video ",
+    "blockType": "scorm",
+    "blockName": "The Mars People Strategy Video ",
+    "fileName": "18JUN_PO_PSV_EN.zip"
+  },
+  {
+    "topicTitle": "Recruiting with Excellence E-Learning: Russian",
+    "blockType": "scorm",
+    "blockName": "Recruiting with Excellence",
+    "fileName": "20JUL_P&O_RWE_M1_RU.zip"
+  },
+  {
+    "topicTitle": "MDR Overview and Your Role E-Learning",
+    "blockType": "scorm",
+    "blockName": "MDR Overview and Your Role",
+    "fileName": "!8AUG_PO_MRDOAYR_EN.zip"
+  },
+  {
+    "topicTitle": "Talking Talent: PPM Placemat E-Learning",
+    "blockType": "scorm",
+    "blockName": "Talking Talent: PPM Placemat",
+    "fileName": "18AAUG_PO_TTPPMIP_EN.zip"
+  },
+  {
+    "topicTitle": "Talking Development: Differentiated Development Planning E-Learning",
+    "blockType": "scorm",
+    "blockName": "Talking Development: Differentiated Development Planning",
+    "fileName": "18AUG_PO_TDDDPADT_EN.zip"
+  },
+  {
+    "topicTitle": "Line Manager Guide to Rewards E-Learning",
+    "blockType": "scorm",
+    "blockName": "Line Manager Guide to Rewards",
+    "fileName": "C10518v3.zip"
+  },
+  {
+    "topicTitle": "Welcome to Royal Canin E-Learning",
+    "blockType": "scorm",
+    "blockName": "Welcome to Royal Canin",
+    "fileName": "C10672 - 1.zip"
+  },
+  {
+    "topicTitle": "RUSSIAN - Ombudsman Program E-Learning",
+    "blockType": "scorm",
+    "blockName": "RUSSIAN - Ombudsman Program",
+    "fileName": "Ombudsman_Russian.zip"
+  },
+  {
+    "topicTitle": "GLM Coaching for Development E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM Coaching for Development",
+    "fileName": "71002.zip"
+  },
+  {
+    "topicTitle": "GLM Introduction to Leading Change",
+    "blockType": "scorm",
+    "blockName": "GLM Introduction to Leading Change",
+    "fileName": "178001.zip"
+  },
+  {
+    "topicTitle": "GLM Courageous Conversations E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM Courageous Conversations",
+    "fileName": "305001.zip"
+  },
+  {
+    "topicTitle": "GLM Decide Faster E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM Decide Faster",
+    "fileName": "17NOV_LEAD_DFGLM_EN_V1.zip"
+  },
+  {
+    "topicTitle": "GLM Meet Smarter E-LEARNING",
+    "blockType": "scorm",
+    "blockName": "GLM Meet Smarter",
+    "fileName": "18JAN_LEAD_MMGLM_EN_V1.zip"
+  },
+  {
+    "topicTitle": "GLM Introduction to Delegation E-Learning ",
+    "blockType": "scorm",
+    "blockName": "GLM Introduction to Delegation",
+    "fileName": "452001.zip"
+  },
+  {
+    "topicTitle": "Introduction to Change Management E-Learning",
+    "blockType": "scorm",
+    "blockName": "Introduction to Change Management",
+    "fileName": "19SEP_LEAD_ITCM_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Introdution to Leading Change E-Learning ",
+    "blockType": "scorm",
+    "blockName": "Introdution to Leading Change",
+    "fileName": "19SEP_LEAD_ITLC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Thriving Through Change E-Learning",
+    "blockType": "scorm",
+    "blockName": "Thriving Through Change",
+    "fileName": "811019.zip"
+  },
+  {
+    "topicTitle": "Managing Through Change (0 Getting Started) E-Learning",
+    "blockType": "scorm",
+    "blockName": "Managing Through Change (0 Getting Started)",
+    "fileName": "20JAN_LEAD_MTCGS_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Managing Through Change (1 The Essentials) E-Learning",
+    "blockType": "scorm",
+    "blockName": "Managing Through Change (1 The Essentials)",
+    "fileName": "20JAN_LEAD_MTCE_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Managing Through Change (2 Preparing for Change) E-Learning",
+    "blockType": "scorm",
+    "blockName": "Managing Through Change (2 Preparing for Change)",
+    "fileName": "20JAN_LEAD_MTCPFC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Managing Through Change (3 Managing Change) E-Learning",
+    "blockType": "scorm",
+    "blockName": "Managing Through Change (3 Managing Change)",
+    "fileName": "20JAN_LEAD_MTCMC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Managing Through Change (4 Reinforcing Change) E-Learning",
+    "blockType": "scorm",
+    "blockName": "Managing Through Change (4 Reinforcing Change)",
+    "fileName": "20JAN_LEAD_MTCRC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Essential Practices Overview E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Essential Practices Overview",
+    "fileName": "28001.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Inspire Purpose E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Inspire Purpose",
+    "fileName": "31001_v1.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Crystalize Intent E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Crystalize Intent",
+    "fileName": "31002.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Cultivate Collaboration E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Cultivate Collaboration",
+    "fileName": "31003.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Activate Ways of Working (AWOW) E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Activate Ways of Working (AWOW)",
+    "fileName": "31004_v2.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Sustain & Renew E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Sustain & Renew",
+    "fileName": "31005.zip"
+  },
+  {
+    "topicTitle": "GLM High Performance Collaboration (HPC): Clarify Context E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM High Performance Collaboration (HPC): Clarify Context",
+    "fileName": "31006_v2.zip"
+  },
+  {
+    "topicTitle": "GLM Introduction to Delivering Effective Feedback E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM Introduction to Delivering Effective Feedback",
+    "fileName": "447002.zip"
+  },
+  {
+    "topicTitle": "GLM Introduction to Coaching E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM Introduction to Coaching",
+    "fileName": "447003.zip"
+  },
+  {
+    "topicTitle": "GLM The difference between Mentoring and Coaching E-Learning",
+    "blockType": "scorm",
+    "blockName": "GLM The difference between Mentoring and Coaching",
+    "fileName": "447004.zip"
+  },
+  {
+    "topicTitle": "Design for Vertical Startup for Process 2 E-Learning",
+    "blockType": "scorm",
+    "blockName": "Design for Vertical Startup for Process 2",
+    "fileName": "20NOV_RD_DFVSE_EN.zip"
+  },
+  {
+    "topicTitle": "Design for Vertical Startup for Product And Pack 1 E-Learning",
+    "blockType": "scorm",
+    "blockName": "Design for Vertical Startup for Product And Pack 1",
+    "fileName": "18OCT_RD_DFVSPP1F_EN.zip"
+  },
+  {
+    "topicTitle": "Design for Vertical Startup for Process 1 E-Learning",
+    "blockType": "scorm",
+    "blockName": "Design for Vertical Startup for Process",
+    "fileName": "17FEB_RD_DFVS_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Mars Wrigley Sales Onboarding",
+    "blockType": "Презентация",
+    "blockName": "MW Sales Onboarding",
+    "fileName": "MARS WRIGLEY Onboarding.pdf"
+  },
+  {
+    "topicTitle": "Mars Supply - Capability and Career Framework Pdf",
+    "blockType": "Презентация",
+    "blockName": "Mars Supply - Capability and Career Framework",
+    "fileName": "Mars Supply - Capability and Career Framework RU - 2022 Jul 27.pdf"
+  },
+  {
+    "topicTitle": "Complex Problem Solving Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "Complex Problem Solving Foundations",
+    "fileName": "18SEP_RD_SIXSIG_EN.zip"
+  },
+  {
+    "topicTitle": "Food Defense Awareness E-Learning",
+    "blockType": "scorm",
+    "blockName": "Food Defense Awareness",
+    "fileName": "Food Defense_Multisco.zip"
+  },
+  {
+    "topicTitle": "Chocolate School E-learning",
+    "blockType": "видео",
+    "blockName": "Navigating Chocolate School Program",
+    "fileName": "ChocSchEss_Navigating Chocolate School.mp4"
+  },
+  {
+    "topicTitle": "Completion Acknowledgment for Chocolate School E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Completion Acknowledgment for Chocolate School",
+    "fileName": "Chocolate School Attestation PDF.pdf"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 1",
+    "fileName": "DQM-lesson-1.zip"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 2",
+    "fileName": "DQM-lesson-2.zip"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 3",
+    "fileName": "DQM-lesson-3.zip"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 4",
+    "fileName": "DQM-lesson-4.zip"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 5",
+    "fileName": "DQM-lesson-5.zip"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 6",
+    "fileName": "DQM-lesson-6.zip"
+  },
+  {
+    "topicTitle": "Distribution Quality Management Interactive Webinar E-learning",
+    "blockType": "scorm",
+    "blockName": "Distribution Quality Management Interactive Webinar E-learning Part 7",
+    "fileName": "DQM-lesson-7.zip"
+  },
+  {
+    "topicTitle": "Consumer Care at Mars: Introduction E-Learning",
+    "blockType": "scorm",
+    "blockName": "Consumer Care at Mars: Introduction",
+    "fileName": "2016_NOV_RD_CCMI_EN_V1"
+  },
+  {
+    "topicTitle": "2024 Urinary E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Urinary",
+    "fileName": "Urinary.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Urinary E-Learning",
+    "blockType": "презентация",
+    "blockName": "Брошюра Уролитиаз собак и кошек",
+    "fileName": "Брошюра Уролитиаз собак и кошек.pdf"
+  },
+  {
+    "topicTitle": "2024 Gastrointestinal E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Gastrointestinal",
+    "fileName": "Gastro 2024 для PSR и PRO. Ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Питание кошек в зависимости от возраста e- learning",
+    "fileName": "Кошки - итог 2.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Питание собак в зависимости от возраста e- learning",
+    "fileName": "Собаки-итог 2.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста E-Learning",
+    "blockType": "видео",
+    "blockName": "Видео: Как презентовать продукт клиенту? Рассказываем на примере продуктов SOL",
+    "fileName": "document_5271932017783617477.mp4"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста (+ доп материалы для канала PRO) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Питание самки в репродуктивный период",
+    "fileName": "драфт питание самки в репродуктивный период 1.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста (+ доп материалы для канала PRO) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Питание кошек в зависимости от возраста e- learning",
+    "fileName": "Кошки - итог 2.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста (+ доп материалы для канала PRO) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Питание собак в зависимости от возраста e- learning",
+    "fileName": "Собаки-итог 2.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста (+ доп материалы для канала PRO) E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Рост и развитие котят и щенков. Диетологический подход",
+    "fileName": "RAZVITIE_I_ROST_SCHENKOV_I_KOTYAT_2024_feb 1.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Питание кошек и собак в зависимости от возраста (+ доп материалы для канала PRO) E-Learning",
+    "blockType": "видео",
+    "blockName": "Видео: Как презентовать продукт клиенту? Рассказываем на примере продуктов SOL",
+    "fileName": "document_5271932017783617477.mp4"
+  },
+  {
+    "topicTitle": "Инструменты рекомендации канала PSR E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Инструменты рекомендации канала PSR",
+    "fileName": "Обучение на платформе RCA 1.ismpkg"
+  },
+  {
+    "topicTitle": "2024 Продукт: от поля до полки E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Модуль \"Производство кормов\"",
+    "fileName": "Т1. Курс 1. Производство кормов  3 (1).pdf"
+  },
+  {
+    "topicTitle": "2024 Продукт: от поля до полки E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Словарик \"Питательные вещества\"",
+    "fileName": "Глоссарий 1.pdf"
+  },
+  {
+    "topicTitle": "2024 Продукт: от поля до полки E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Тестирование",
+    "fileName": "импорт тест.csv"
+  },
+  {
+    "topicTitle": "2024 Продукт: от поля до полки E-Learning",
+    "blockType": "видео",
+    "blockName": "Как читать упаковку?",
+    "fileName": "IMG_0459.mp4"
+  },
+  {
+    "topicTitle": "2024 Продукт: от поля до полки E-Learning",
+    "blockType": "видео",
+    "blockName": "Как подобрать альтернативу ушедшему рациону? Расскажем в видеоролике",
+    "fileName": "Видеоролик обучнение для B2B.mp4"
+  },
+  {
+    "topicTitle": "2024 Продукт: от поля до полки E-Learning",
+    "blockType": "видео",
+    "blockName": "Коротко о главном: R&D",
+    "fileName": "Коротко о главном R&D.mp3"
+  },
+  {
+    "topicTitle": "Подкаст Голоса Royal Canin \"Однажды в полях\"",
+    "blockType": "видео",
+    "blockName": "Подкаст Голоса Royal Canin \"Однажды в полях\"",
+    "fileName": "Симулированный продавец Голоса Royal Canin.mp3"
+  },
+  {
+    "topicTitle": "Работа с возражениями E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Работа с возражениями",
+    "fileName": "Р11 Аргументация.ismkg"
+  },
+  {
+    "topicTitle": "Нутриенты и их роль. Формула продукта E-Learning",
+    "blockType": "видео",
+    "blockName": "Основы правильного питания собак и кошек",
+    "fileName": "Видеоурок_Екатерина Нигова_основы правильного питания собак и кошек.m4v"
+  },
+  {
+    "topicTitle": "Нутриенты и их роль. Формула продукта E-Learning",
+    "blockType": "видео",
+    "blockName": "Мифы в питании собак и кошек",
+    "fileName": "Видеоурок_Екатерина Нигова_Принципы кормления животных.m4v"
+  },
+  {
+    "topicTitle": "Нутриенты и их роль. Формула продукта E-Learning",
+    "blockType": "видео",
+    "blockName": "Запись вебинара по нутриентному подходу",
+    "fileName": "обучение для команды SCE по нутриентному подходу от Екатерины Ниговой-20240125_093310-Meeting Recording.mp4"
+  },
+  {
+    "topicTitle": "Laws of Growth E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Laws of Growth",
+    "fileName": "triniti-_-mars-log-elearning__ (7).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 1: Selling and Negotiating E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 1: Selling and Negotiating",
+    "fileName": "1p11401_2018_02_09_12_03_05(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 2: Predictability and How to Use it E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 2: Predictability and How to Use it",
+    "fileName": "2p11402_2022_01_25_11_00_41(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program  Module 3: Key Principles of Negotiation E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 3: Key Principles of Negotiation",
+    "fileName": "3p11403_2020_04_14_14_34_01(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 4: Negotiation Techniques E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 4: Negotiation Techniques",
+    "fileName": "4p11406_2018_02_09_11_42_27(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 5: Give It a Try E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 5: Give It a Try",
+    "fileName": "Mars_Negotiation_Give_it_a_try_2_220923.zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 6: Second Wind: Give It a Try E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 6: Second Wind: Give It a Try",
+    "fileName": "6p11658_2022_01_25_13_27_47(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program  Module 7: Listen to The Expert E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 7: Listen to The Expert",
+    "fileName": "7p14854_2022_01_25_12_17_16(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 8: Check What You Know E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 8: Check What You Know",
+    "fileName": "8p11486_2018_02_09_10_48_47(EN).zip"
+  },
+  {
+    "topicTitle": "Negotiation Essentials Program Module 9: Second Wind: Check What You Know E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 9: Second Wind: Check What You Know",
+    "fileName": "9p11659_2022_01_25_13_42_13(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 1: Customer Needs E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 1: Customer Needs",
+    "fileName": "1p11395_2022_01_24_16_19_08(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 2: Questioning and Listening E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 2: Questioning and Listening",
+    "fileName": "2p11399_2018_02_09_14_45_16(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Module 3: Setting Objectives E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 3: Setting Objectives",
+    "fileName": "3p11400_2016_03_31_07_49_04(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 4: The Persuasive Selling Process E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 4: The Persuasive Selling Process",
+    "fileName": "Mars_SE_Persuasive_220923.zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 5: Communication and Influence E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 5: Communication and Influence",
+    "fileName": "5p11394_2016_03_31_07_50_31(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 6: Overcoming Objections E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 6: Overcoming Objections",
+    "fileName": "6p11398_2018_02_09_14_04_47(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 7: Give it a Try E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 7: Give it a Try",
+    "fileName": "7p11396_2022_01_24_17_16_52(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 8: Second Wind: Give it a Try E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 8: Second Wind: Give it a Try",
+    "fileName": "7ap11673_2018_02_09_15_30_00(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 9: Check what you know E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 9: Check what you know",
+    "fileName": "8p11393_2018_02_09_13_18_52(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 10: Second Wind: Check what you know E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 10: Second Wind: Check what you know",
+    "fileName": "8ap11674_2016_03_31_08_00_18(EN).zip"
+  },
+  {
+    "topicTitle": "Sales Essentials Program Module 11: Listen to the Expert E-learning",
+    "blockType": "SCORM",
+    "blockName": "Module 11: Listen to the Expert",
+    "fileName": "Mars_SE_Listen_to_the_expert_220922.zip"
+  },
+  {
+    "topicTitle": "Food Fraud Awareness E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Food Fraud Awareness",
+    "fileName": "822000v2.zip"
+  },
+  {
+    "topicTitle": "Food Fraud Fundamentals E-learning",
+    "blockType": "SCORM",
+    "blockName": "Food Fraud Fundamentals 1 Welcome",
+    "fileName": "Food Fraud Fundamentals 1 Welcome updated.zip"
+  },
+  {
+    "topicTitle": "Food Fraud Fundamentals E-learning",
+    "blockType": "SCORM",
+    "blockName": "Food Fraud Fundamentals 2 Vulnerabilities",
+    "fileName": "Food Fraud Fundamentals 2 Vulnerabilities updated menu.zip"
+  },
+  {
+    "topicTitle": "Food Fraud Fundamentals E-learning",
+    "blockType": "SCORM",
+    "blockName": "Food Fraud Fundamentals 3 Mitigation",
+    "fileName": "Food Fraud Fundamentals 3 Mitigation (1).zip"
+  },
+  {
+    "topicTitle": "Food Fraud Fundamentals E-learning",
+    "blockType": "SCORM",
+    "blockName": "Food Fraud Fundamentals 4 Planning",
+    "fileName": "Food Fraud Fundamentals 4 Planning"
+  },
+  {
+    "topicTitle": "Food Fraud Vulnerability Assessment Team Workshop Virtual",
+    "blockType": "SCORM",
+    "blockName": "PRE READ: About Manuka Honey",
+    "fileName": "FF-prework-handout.pdf"
+  },
+  {
+    "topicTitle": "Front End Framework (FEF) Process E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Front End Framework (FEF) Process",
+    "fileName": "19JUL_RD_FEF_EN.zip"
+  },
+  {
+    "topicTitle": "Testing & Conformance Foundations E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Testing & Conformance Foundations",
+    "fileName": "21JAN_RD_TCF_EN.zip"
+  },
+  {
+    "topicTitle": "Agile Strategy Review E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Agile Strategy Review",
+    "fileName": "C10514.zip"
+  },
+  {
+    "topicTitle": "Bringing the Ensure Pillar to Life E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Bringing the Ensure Pillar to Life",
+    "fileName": "814058.zip"
+  },
+  {
+    "topicTitle": "Cash management E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Cash management",
+    "fileName": "cninv000000000028470.zip"
+  },
+  {
+    "topicTitle": "Competitive Bidding Overview E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Competitive Bidding Overview",
+    "fileName": "17APR_COM_WBT1.zip"
+  },
+  {
+    "topicTitle": "Competitive Bidding Pallets example E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Competitive Bidding Pallets example",
+    "fileName": "17APR_COM_WBT3.zip"
+  },
+  {
+    "topicTitle": "Contract Law E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Contract Law",
+    "fileName": "816999_1.zip"
+  },
+  {
+    "topicTitle": "Cost Calculation E-learning",
+    "blockType": "SCORM",
+    "blockName": "Cost Calculation",
+    "fileName": "21SEP_COM_CC_EN.zip"
+  },
+  {
+    "topicTitle": "Cost Estimation E-learning",
+    "blockType": "SCORM",
+    "blockName": "Cost Estimation",
+    "fileName": "21SEP_COM_CE_EN.zip"
+  },
+  {
+    "topicTitle": "Essence of Commercial E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Essence of Commercial",
+    "fileName": "18JUL_COMM_EOC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Global Travel Policy 2.0 E-learning",
+    "blockType": "SCORM",
+    "blockName": "Global Travel Policy 2.0",
+    "fileName": "820001.zip"
+  },
+  {
+    "topicTitle": "Integrated Facility Management - Sodexo E-learning",
+    "blockType": "SCORM",
+    "blockName": "Integrated Facility Management - Sodexo",
+    "fileName": "C10651.zip"
+  },
+  {
+    "topicTitle": "Introduction to Commercial Foundations Video",
+    "blockType": "Видео",
+    "blockName": "Introduction to Commercial",
+    "fileName": "18JUN_COMM_ITCF_EN_V1.mp4"
+  },
+  {
+    "topicTitle": "Mars Legal Intellectual Property Patents & Technology Training E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Legal Intellectual Property Patents & Technology Training",
+    "fileName": "00014080.zip"
+  },
+  {
+    "topicTitle": "Mars Quality Strategy Methodology (MQSM) Foundations E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Quality Strategy Methodology (MQSM) Foundations",
+    "fileName": "20APR_COM_MQSMF_EN.zip"
+  },
+  {
+    "topicTitle": "MSSM Foundations E-Learning",
+    "blockType": "SCORM",
+    "blockName": "MSSM Foundations",
+    "fileName": "19NOV_COM_MSSMF_EN.zip"
+  },
+  {
+    "topicTitle": "Next Generation Supplier E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Next Generation Supplier",
+    "fileName": "20JAN_COM_NGS_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Packaging Risk Assessment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Packaging Risk Assessment",
+    "fileName": "C10561_v1.zip"
+  },
+  {
+    "topicTitle": "Программа: SQA Safety Part 1: Building a Culture of Safety E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SQA Safety Part 1: Building a Culture of Safety",
+    "fileName": "20NOV_COMM_SQA_SAFETY_1.zip"
+  },
+  {
+    "topicTitle": "Программа: SQA Safety Part 2 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SQA Safety Part 2",
+    "fileName": "20NOV_COMM_SQA_SAFETY_2.zip"
+  },
+  {
+    "topicTitle": "Программа: SQA Safety Part 3 E-Learning",
+    "blockType": "SCORM",
+    "blockName": "SQA Safety Part 3",
+    "fileName": "20NOV_COMM_SQA_SAFETY_3.zip"
+  },
+  {
+    "topicTitle": "Supplier Code of Conduct E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Supplier Code of Conduct",
+    "fileName": "19JUN_COM_SCOC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Supplier Diversity Awareness E-learning",
+    "blockType": "SCORM",
+    "blockName": "Supplier Diversity Awareness",
+    "fileName": "C10584.zip"
+  },
+  {
+    "topicTitle": "Supplier Relationship Management E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Supplier Relationship Management",
+    "fileName": "19JAN_COM_SRM_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Module 1: Industry Overview E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Module 1: Industry Overview",
+    "fileName": "19JAN_COM_APMS_M1_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Module 2: Material Functionality and Mars Products E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Module 2: Material Functionality and Mars Products",
+    "fileName": "19FEB_COM_APMS_MF_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Dry Module 3: Supplier and Mars Processes E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Dry Module 3: Supplier and Mars Processes",
+    "fileName": "19JAN_COM_APMS_M3DRY_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Dry Module 4: MRA and Audit Best Practices E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Dry Module 4: MRA and Audit Best Practices",
+    "fileName": "19JAN_COM_APMS_M4DRY_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Dry Module 5: Verification Program E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Dry Module 5: Verification Program",
+    "fileName": "19FEB_COM_APMS_M5DRY_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Tallow Module 3: Supplier and Mars Processes E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Tallow Module 3: Supplier and Mars Processes",
+    "fileName": "19FEB_COM_APMS_M3TALL_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Tallow Module 4: MRA and Audit Best Practices E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Tallow Module 4: MRA and Audit Best Practices",
+    "fileName": "19FEB_COM_APMS_M4TALL_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Tallow Module 5: Verification Program E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Tallow Module 5: Verification Program",
+    "fileName": "19FEB_COM_APMS_M5TALLOW_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Wet Module 3: Supplier and Mars Processes  E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Wet Module 3: Supplier and Mars Processes",
+    "fileName": "19FEB_COM_APMS_M3WET_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Wet Module 4: MRA and Audit Best Practices E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Wet Module 4: MRA and Audit Best Practices",
+    "fileName": "19FEB_COM_APMS_M4WET_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Animal Protein Material School Wet Module 5: Verification Program E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Animal Protein Material School Wet Module 5: Verification Program",
+    "fileName": "19FEB_COM_APMS_M5WET_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Commercial Capability Framework Pdf",
+    "blockType": "Презентация",
+    "blockName": "Commercial Capability Framework",
+    "fileName": "Commercial-Capability-Framework-2022.pdf"
+  },
+  {
+    "topicTitle": "Программа: Commercial Quality Culture Module 1: Quality E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Commercial Quality Culture Module 1: Quality",
+    "fileName": "20APR_COM_CQCM1_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Commercial Quality Culture Module 2: Five Quality Behaviours for Commercial E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Commercial Quality Culture Module 2: Five Quality Behaviours for Commercial",
+    "fileName": "813037.zip"
+  },
+  {
+    "topicTitle": "Программа: Commercial Quality Culture Module 3: Commercial Quality Health Check E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Commercial Quality Culture Module 3: Commercial Quality Health Check",
+    "fileName": "20APR_COM_CQCM3_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Commercial Quality Culture Module 4: Planning your team's Quality action plan session E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Commercial Quality Culture Module 4: Planning your team's Quality action plan session",
+    "fileName": "20APR_COM_CQCM4_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Commercial Quality Culture Module 5: Reflections and Next Steps. What will I do now? E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Commercial Quality Culture Module 5: Reflections and Next Steps. What will I do now?",
+    "fileName": "20APR_COM_CQCM5_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Mars Currency Training - Module 1: Currency Risk Management E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Currency Training - Module 1: Currency Risk Management",
+    "fileName": "19OCT_COMM_CCRM_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Mars Currency Training - Module 2: Mars Currency Policy and Your Responsibility E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Currency Training - Module 2: Mars Currency Policy and Your Responsibility E-Learning",
+    "fileName": "19OCT_COMM_CCMCP_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Mars Currency Training - Module 3: Exposure Identification and Forecasting Accuracy E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Currency Training - Module 3: Exposure Identification and Forecasting Accuracy E-Learning",
+    "fileName": "19OCT_COMM_CCEI_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Mars Currency Training - Module 4: Financial Impact E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Currency Training - Module 4: Financial Impact",
+    "fileName": "19OCT_COMM_CCFI_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Mars Currency Training - Module 5: Mars FX Rates Explained E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Mars Currency Training - Module 5: Mars FX Rates Explained",
+    "fileName": "19OCT_COMM_CCMF_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Dairy Material School Module 1: Industry Overview Video",
+    "blockType": "SCORM",
+    "blockName": "Dairy Material School Module 1: Industry Overview",
+    "fileName": "17AUG_COM_DMSM1_ENG_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Dairy Material School Module 2: Material Functionality E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Dairy Material School Module 2: Material Functionality",
+    "fileName": "29AUG_COM_DMSM2_ENG_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Dairy Material School Module 3: Supplier Dairy Processes E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Dairy Material School Module 3: Supplier Dairy Processes",
+    "fileName": "2SEP_COM_DMSM3_ENG_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Dairy Material School Module 4: MRA and Audit Best Practices E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Dairy Material School Module 4: MRA and Audit Best Practices",
+    "fileName": "4OCT_COM_DMSM4_ENG_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Dairy Material School Module 5: Verification Program E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Dairy Material School Module 5: Verification Program",
+    "fileName": "4OCT_COM_DMSM5_ENG_V1.zip"
+  },
+  {
+    "topicTitle": "End-to-End Traceability Using Atlas and Veritas Program Module 1: Tracing With Veritas E-Learning",
+    "blockType": "SCORM",
+    "blockName": "End-to-End Traceability Using Atlas and Veritas Program Module 1: Tracing With Veritas",
+    "fileName": "21JUN_R&D_ETET1_EN.zip"
+  },
+  {
+    "topicTitle": "End-to-End Traceability Using Atlas and Veritas Program Module 2: Atlas Top-Down Analysis Finished Goods to Raws/Packs E-Learning",
+    "blockType": "SCORM",
+    "blockName": "End-to-End Traceability Using Atlas and Veritas Program Module 2: Atlas Top-Down Analysis Finished Goods to Raws/Packs",
+    "fileName": "21JUN_R&D_ETET2_EN.zip"
+  },
+  {
+    "topicTitle": "End-To-End Traceability Module 4: Atlas Track and Trace Finished Goods in the Supply Chain E-Learning",
+    "blockType": "SCORM",
+    "blockName": "End-To-End Traceability Module 4: Atlas Track and Trace Finished Goods in the Supply Chain",
+    "fileName": "21JUN_R&D_ETET4_EN.zip"
+  },
+  {
+    "topicTitle": "End-to-End Traceability Using Atlas and Veritas Program Module 3: Atlas Bottom-Up Analysis Raws/Packs to Finished Goods E-Learning",
+    "blockType": "SCORM",
+    "blockName": "End-to-End Traceability Using Atlas and Veritas Program Module 3: Atlas Bottom-Up Analysis Raws/Packs to Finished Goods",
+    "fileName": "21JUN_R&D_ETET3_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 1: Industry Overview E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 1: Industry Overview",
+    "fileName": "C10468.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 2A: Types of Base Polymer Films E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 2A: Types of Base Polymer Films E-learning",
+    "fileName": "Module 2A_Types of Base Polymer Films_.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 2B: Polymer Films and Adhesives E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 2B: Polymer Films and Adhesives",
+    "fileName": "Module 2B_Polymer Films and Adhesives.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 2C: Types of Flexible Packaging E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 2C: Types of Flexible Packaging",
+    "fileName": "Module 2C_Types of Flexible Packaging.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 2: Exercise E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 2: Exercise",
+    "fileName": "Module_2_Exercise.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 3A: Base Film to Printed E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 3A: Base Film to Printed",
+    "fileName": "Module 3A_Base Film to Printed Film.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 3B: Supplier Process - Printing and Finishing E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 3B: Supplier Process - Printing and Finishing",
+    "fileName": "Module 3B_Supplier Process—Printing and Finishing.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 3C: Sealing and Mars Processes E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 3C: Sealing and Mars Processes",
+    "fileName": "Module 3C_Sealing and Mars processes.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 4: Risk and Best Practices E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 4: Risk and Best Practices",
+    "fileName": "Module 4_Risks and Best practices.zip"
+  },
+  {
+    "topicTitle": "Программа: Flexible Packaging Material School Module 5: Assessment E-learning",
+    "blockType": "SCORM",
+    "blockName": "Flexible Packaging Material School Module 5: Assessment E-learning",
+    "fileName": "C10499.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School: Module 1 - Industry Overview E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School: Module 1 - Industry Overview",
+    "fileName": "20DEC_COM_HASMS_IO.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School: Module 2 - Functionality E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School: Module 2 - Functionality",
+    "fileName": "20DEC_COM_HASMS_MF.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School - Module 3.1: Supplier Process (Primary Operations) E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School - Module 3.1: Supplier Process (Primary Operations) E-learning",
+    "fileName": "20DEC_COM_HASMS_FAPPO.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School -  Module 3.2: Supplier Process (Secondary Operations) E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School -  Module 3.2: Supplier Process (Secondary Operations) E-learning",
+    "fileName": "20DEC_COM_HASMS_SPO.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School: Module 4.1  - MRA and Best Practice (Material) E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School: Module 4.1  - MRA and Best Practice (Material) E-learning",
+    "fileName": "20DEC_COM_HASMS_MMRAABPM.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School: Module 4.2  - MRA and Best Practice (Supplier) E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School: Module 4.2  - MRA and Best Practice (Supplier) E-learning",
+    "fileName": "20DEC_COM_HASMS_MRAABPS.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School: Module 4.3  - MRA and Best Practice E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School: Module 4.3  - MRA and Best Practice  E-learning",
+    "fileName": "20DEC_COM_HASMS_TSAFA.zip"
+  },
+  {
+    "topicTitle": "Программа: Herbs and Spices Material School: Module 5 - Assessment E-learning",
+    "blockType": "SCORM",
+    "blockName": "Herbs and Spices Material School: Module 5 - Assessment E-learning",
+    "fileName": "20DEC_COM_HASMS_ASSES.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 1: Micro awareness for SQA E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 1: Micro awareness for SQA",
+    "fileName": "19OCT_COMM_MQME1_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 2: Microorganisms and Food Industry Concerns E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 2: Microorganisms and Food Industry Concerns",
+    "fileName": "19OCT_COMM_MQME2_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 3: Preventive Controls - Keep Them Out E-Learning (Essential)",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 3: Preventive Controls - Keep Them Out E-Learning (Essential)",
+    "fileName": "19NOV_COMM_MQME3_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 4: Preventive Controls - Kill Them E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 4: Preventive Controls - Kill Them",
+    "fileName": "19OCT_COMM_MQME4_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 5: Preventive Controls - Keep Them from Staying E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 5: Preventive Controls - Keep Them from Staying E-Learning",
+    "fileName": "19NOV_COMM_MQME5_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 6: Verification and Validation E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 6: Verification and Validation E-Learning",
+    "fileName": "19OCT_COMM_MQME6_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 7: What Would You Do? and Escalated Approach E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 7: What Would You Do? and Escalated Approach",
+    "fileName": "19NOV_COMM_MQME7_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: MQM Microbiology Essentials Module 8: Assessment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: MQM Microbiology Essentials Module 8: Assessment E-Learning",
+    "fileName": "19OCT_COMM_MQME8_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 0: Ultra-High Business Impact (UHBI)​ E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 0: Ultra-High Business Impact (UHBI)​",
+    "fileName": "Module 0_INTRODUCTION TO MATERIALS.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 1: Industry overview E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 1: Industry overview",
+    "fileName": "Module 1_INDUSTRY OVERVIEW.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 2 Material functionality and Impact to Mars products E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 2 Material functionality and Impact to Mars products",
+    "fileName": "Module 2_MATERIAL FUNCTIONALITY AND IMPACT ON MARS PRODUCTS.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 3.1: Supplier process - liquid E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 3.1: Supplier process - liquid E-learning",
+    "fileName": "Module 3.1_SUPPLIER PROCESS_ LIQUID.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 3.2: Supplier process - dry E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 3.2: Supplier process - dry",
+    "fileName": "Module 3.2_SUPPLIER PROCESS_ DRY.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 4 MRA hazards, controls and Audit best practices E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 4 MRA hazards, controls and Audit best practices E-learning",
+    "fileName": "Module 4_ AUDIT BEST PRACTICES AND MRA_.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 5: How does MQM bring it all together? E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 5: How does MQM bring it all together? E-learning",
+    "fileName": "Module 5_HOW DOES MQM BRING IT ALL TOGETHER_.zip"
+  },
+  {
+    "topicTitle": "Программа: Palatants Material School Module 6: Quizz E-learning",
+    "blockType": "SCORM",
+    "blockName": "Palatants Material School Module 6: Quizz",
+    "fileName": "Module 6 Assessment.zip"
+  },
+  {
+    "topicTitle": "Программа: Rice Material School Module 1: Industry Overview Video",
+    "blockType": "SCORM",
+    "blockName": "Программа: Rice Material School Module 1: Industry Overview",
+    "fileName": "17DEC_COMM_RMSIO_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Rice Material School Module 2: Material Functionality E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Rice Material School Module 2: Material Functionality",
+    "fileName": "17DEC_COMM_RMSMF_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Rice Material School Module 3: Supplier and Mars Processes E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Rice Material School Module 3: Supplier and Mars Processes",
+    "fileName": "17DEC_COMM_RMSMP_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Rice Material School Module 4: MRA and Audit Best Practices E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Rice Material School Module 4: MRA and Audit Best Practices",
+    "fileName": "17DEC_COMM_RMMRA_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Rice Material School Module 5: Verification Program E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Rice Material School Module 5: Verification Program",
+    "fileName": "17DEC_COMM_RMVP_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Tree Nuts Material School Module 1: Industry Overview E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Tree Nuts Material School Module 1: Industry Overview E-Learning",
+    "fileName": "20DEC_COM_TNMS_IO_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Tree Nuts Material School Module 2: Material Functionality E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Tree Nuts Material School Module 2: Material Functionality E-Learning",
+    "fileName": "20DEC_COM_TNMS_MF_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Tree Nuts Material School Module 3: Supplier and Mars Processes E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Tree Nuts Material School Module 3: Supplier and Mars Processes",
+    "fileName": "20DEC_COM_TNMS_SMP_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Tree Nuts Material School Module 4: MRA and Best Practice Audits E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Tree Nuts Material School Module 4: MRA and Best Practice Audits E-Learning",
+    "fileName": "20DEC_COM_TNMS_MRABPA_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Tree Nuts Material School Module 5: Assessment E-Learning",
+    "blockType": "SCORM",
+    "blockName": "Программа: Tree Nuts Material School Module 5: Assessment",
+    "fileName": "20DEC_COM_TNMS_A_EN.zip"
+  },
+  {
+    "topicTitle": "Foreign Materials Management Awareness Quiz E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Awareness Quiz",
+    "fileName": "21APR_RD_FMMAQ_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Foundations of Packaging Module 1: Introduction to packaging E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foundations of Packaging Module 1: Introduction to packaging",
+    "fileName": "18SEP_R&D_IP_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Foundations of Packaging Module 2: Types of Packaging E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foundations of Packaging Module 2: Types of Packaging",
+    "fileName": "18SEP_R&D_TP_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Foundations of Packaging Module 3: Packaging Marketing and Design E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foundations of Packaging Module 3: Packaging Marketing and Design E-Learning",
+    "fileName": "18SEP_R&D_PM_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Foundations of Packaging Module 4: Packaging Equipment E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foundations of Packaging Module 4: Packaging Equipment",
+    "fileName": "18SEP_R&D_PE_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Foundations of Packaging Module 5: Packaging Testing E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foundations of Packaging Module 5: Packaging Testing",
+    "fileName": "18SEP_R&D_PT_EN.zip"
+  },
+  {
+    "topicTitle": "Genomics in Food Safety Awareness E-Learning",
+    "blockType": "scorm",
+    "blockName": "\n\nGenomics in Food Safety Awareness E-Learning Essential",
+    "fileName": "21APR_GFSA_EN.zip"
+  },
+  {
+    "topicTitle": "Genomics in Food Safety for Practitioners E-learning",
+    "blockType": "scorm",
+    "blockName": "Genomics in Food Safety for Practitioners",
+    "fileName": "21JUL_RD_GIFSP_EN.zip"
+  },
+  {
+    "topicTitle": "HACCP-based Food Safety Management Programme Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "HACCP-based Food Safety Management Programme Foundations",
+    "fileName": "41064.zip"
+  },
+  {
+    "topicTitle": "HACCP-based Food Safety Management Programme Foundations E-Learning",
+    "blockType": "Презентация",
+    "blockName": "HACCP Document",
+    "fileName": "41064_v2.pdf"
+  },
+  {
+    "topicTitle": "Holistic Project Portfolio Management (HPPM) E-Learning",
+    "blockType": "scorm",
+    "blockName": "Holistic Project Portfolio Management (HPPM) English",
+    "fileName": "805023_V01.zip"
+  },
+  {
+    "topicTitle": "Introduction to HQRM (Holistic Quality Risk Management) E-learning",
+    "blockType": "scorm",
+    "blockName": "Introduction to HQRM (Holistic Quality Risk Management) E-learning",
+    "fileName": "C10013.zip"
+  },
+  {
+    "topicTitle": "Introduction To Statistics Module 1 E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nIntroduction to Statistics Part 1 (English)",
+    "fileName": "18JUL_RD_ITSP1_EN.zip"
+  },
+  {
+    "topicTitle": "Introduction To Statistics Module 2 E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nIntroduction to Statistics Part 2 (English)",
+    "fileName": "19APR_RD_ITSP2_EN.zip"
+  },
+  {
+    "topicTitle": "Key Quality Attributes (KQA) E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nKey Quality Attributes (KQA) Essential English",
+    "fileName": "20JUL_RD_KQAE_EN.zip"
+  },
+  {
+    "topicTitle": "Laboratory Governance E-Learning",
+    "blockType": "scorm",
+    "blockName": "Laboratory Governance E-Learning Lesson 1",
+    "fileName": "805029.zip"
+  },
+  {
+    "topicTitle": "Listeria Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nListeria Foundation Level Final eLearning",
+    "fileName": "20AUG_RD_LFLF_EN.zip"
+  },
+  {
+    "topicTitle": "Mars Global Good Manufacturing Practice (GMP-GHP) Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nMars Global Good Manufacturing Practice (GMP-GHP) foundations E-Learning Lesson 1",
+    "fileName": "41356.zip"
+  },
+  {
+    "topicTitle": "Mars Global Good Manufacturing Practice (GMP-GHP) Foundations E-Learning",
+    "blockType": "Презентация",
+    "blockName": "GMP-GHP Document",
+    "fileName": "41356_v2.pdf"
+  },
+  {
+    "topicTitle": "Material Risk Assessment (MRA) E-learning",
+    "blockType": "scorm",
+    "blockName": "Material Risk Assessment (MRA)",
+    "fileName": "mra-essential-level-scorm2004_2-FPmLFcs_.zip"
+  },
+  {
+    "topicTitle": "Material Risk Assessment (MRA) Overview E-Learning",
+    "blockType": "scorm",
+    "blockName": "Material Risk Assessment\n",
+    "fileName": "Material Risk Assessment (MRA) awareness 2022.zip"
+  },
+  {
+    "topicTitle": "Material Risk Assessment (MRA) for Biological Hazards E-Learning",
+    "blockType": "scorm",
+    "blockName": "Material Risk Assessment (MRA) for Biological Hazards",
+    "fileName": "MRA biological hazards.zip"
+  },
+  {
+    "topicTitle": "Nutrition and What It Means To Us E-Learning",
+    "blockType": "scorm",
+    "blockName": "Nutrition and What It Means To Us E-Learning",
+    "fileName": "814144v3.zip"
+  },
+  {
+    "topicTitle": "Off-Pack Claims E-Learning",
+    "blockType": "scorm",
+    "blockName": "Off-Pack Claims E-Learning",
+    "fileName": "\t20FEB_RD_GAMOP_EN.zip"
+  },
+  {
+    "topicTitle": "On-Pack Claims Approval E-Learning",
+    "blockType": "scorm",
+    "blockName": "On-Pack Claims Approval E-Learning",
+    "fileName": "\t20DEC_RD_OPC_EN.zip"
+  },
+  {
+    "topicTitle": "Premia Quality Management Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "Premia Quality Management Foundations E-Learning",
+    "fileName": "814117_v2.zip"
+  },
+  {
+    "topicTitle": "Product-Related Incident Management Process (PRIMP) Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "Product-Related Incident Management Process (PRIMP) Foundations E-Learning",
+    "fileName": "238001v2.zip"
+  },
+  {
+    "topicTitle": "Quality, Efficiency, Sustainability (QES) Process E-Learning",
+    "blockType": "scorm",
+    "blockName": "Quality, Efficiency, Sustainability (QES) Process E-Learning",
+    "fileName": "807028.zip"
+  },
+  {
+    "topicTitle": "QuEST Process E-Learning",
+    "blockType": "scorm",
+    "blockName": "QuEST Process E-Learning",
+    "fileName": "805010.zip"
+  },
+  {
+    "topicTitle": "R&D Regulated Materials Process E-learning",
+    "blockType": "scorm",
+    "blockName": "R&D Regulated Materials Process E-learning",
+    "fileName": "RD_Regulated_Materials_Process.zip"
+  },
+  {
+    "topicTitle": "Introduction to Quality at Mars E-Learning",
+    "blockType": "scorm",
+    "blockName": "Introduction to Quality at Mars E-Learning",
+    "fileName": "818061v3.zip"
+  },
+  {
+    "topicTitle": "Introduction to Salmonella & Listeria E-Learning",
+    "blockType": "scorm",
+    "blockName": "Introduction to Salmonella & Listeria E-Learning",
+    "fileName": "Salmonella-Listeria-combined.zip"
+  },
+  {
+    "topicTitle": "Recall Process Framework E-Learning",
+    "blockType": "scorm",
+    "blockName": "Recall Process Framework E-Learning",
+    "fileName": "40923v5.zip"
+  },
+  {
+    "topicTitle": "Sourcing Quality Management Standards Foundations E-Learning",
+    "blockType": "scorm",
+    "blockName": "Sourcing Quality Management Standards Foundations E-Learning",
+    "fileName": "18JUN_RD_SQMS_EN.zip"
+  },
+  {
+    "topicTitle": "Successfully Preparing for Regulatory Inspections E-Learning",
+    "blockType": "scorm",
+    "blockName": "Successfully Preparing for Regulatory Inspections E-Learning",
+    "fileName": "C10160.zip"
+  },
+  {
+    "topicTitle": "Digital Essentials E-learning Essential",
+    "blockType": "scorm",
+    "blockName": "Digital Essentials E-learning",
+    "fileName": "21FEB_PA_DE_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Digital Technologies Onboarding Elearning",
+    "blockType": "scorm",
+    "blockName": "Digital Technologies Onboarding Elearning",
+    "fileName": "17DEC_IT_ONBOARD_EN_v2.zip"
+  },
+  {
+    "topicTitle": "Getting Started with Design Thinking E-Learning",
+    "blockType": "scorm",
+    "blockName": "Getting Started with Design Thinking E-Learning",
+    "fileName": "805002.zip"
+  },
+  {
+    "topicTitle": "Information Security Safeguarding the Audit System  E-Learning",
+    "blockType": "scorm",
+    "blockName": "\n\nModule 1: Mars Financials [LOW RES] E-Learning",
+    "fileName": "18AUG_IT_ISSMFC_M6_ENL_V1.zip"
+  },
+  {
+    "topicTitle": "Information Security Safeguarding the Audit System  E-Learning",
+    "blockType": "scorm",
+    "blockName": "Module 2: Mars Financials E-Learning",
+    "fileName": "18AUG_IT_ISSMFC_M6_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Information Security: Offboarding for Line Managers E-learning",
+    "blockType": "scorm",
+    "blockName": "Information Security: Offboarding for Line Managers E-learning",
+    "fileName": "Mars_Information_Security_Offboarding_Line_Managers_Multilanguage_04042024.zip"
+  },
+  {
+    "topicTitle": "Introduction to Agile E-Learning",
+    "blockType": "scorm",
+    "blockName": "Introduction to Agile E-Learning",
+    "fileName": "20FEB_DIG_IAM_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Introduction to Data and Analytics E-learning",
+    "blockType": "scorm",
+    "blockName": "Introduction to Data and Analytics E-learning",
+    "fileName": "820000.zip"
+  },
+  {
+    "topicTitle": "Kanban Course E-learning (Advanced)",
+    "blockType": "scorm",
+    "blockName": "Kanban Course E-learning",
+    "fileName": "C10381.zip"
+  },
+  {
+    "topicTitle": "Mars Wrigley Digital Essentials E-LEARNING",
+    "blockType": "scorm",
+    "blockName": "Mars Wrigley Digital Essentials E-LEARNING",
+    "fileName": "20SEP_LC_MWDE_EN.zip"
+  },
+  {
+    "topicTitle": "Robotic Process E-learning",
+    "blockType": "scorm",
+    "blockName": "Robotic Process E-learning",
+    "fileName": "21FEB_PA_RP_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Russian - Information Security: PCI for Credit Card Handlers E-learning",
+    "blockType": "scorm",
+    "blockName": "Russian - Information Security: PCI for Credit Card Handlers E-learning",
+    "fileName": "pci_security_ mars_RU.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 1: Deep Empathy E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 1: Deep Empathy",
+    "fileName": "18NOV_IT_USMS_DE_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 2: Sense Making E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 2: Sense Making",
+    "fileName": "18NOV_IT_USMS_SM_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 3: (Re)Framing E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 3: (Re)Framing",
+    "fileName": "18NOV_USMS_RF_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 4: Constant Curiosity E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 4: Constant Curiosity",
+    "fileName": "18NOV_USMS_CC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 5: Bold Thinking E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 5: Bold Thinking",
+    "fileName": "18NOV_USMS_BT_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 6: Brave Doing  E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 6: Brave Doing",
+    "fileName": "18NOV_IT_USMS_BD_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: The Seven Magic Skills of User Centricity Module 7: Close Collaboration E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Seven Magic Skills of User Centricity Module 7: Close Collaboration",
+    "fileName": "18NOV_USMS_COC_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Программа: Foreign Materials Management Module 1: Introduction E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Module 1: Introduction",
+    "fileName": "21MARCH_COM_FMM1.zip"
+  },
+  {
+    "topicTitle": "Программа: Foreign Materials Management Module 2: Types of Foreign Materials E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Module 2: Types of Foreign Material",
+    "fileName": "21MARCH_COM_FMM2.zip"
+  },
+  {
+    "topicTitle": "Программа: Foreign Materials Management Module 3: Prevention and Control E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Module 3: Prevention and Control",
+    "fileName": "21MARCH_COM_FMM3.zip"
+  },
+  {
+    "topicTitle": "Программа: Foreign Materials Management Module 4: Validation, Verification, and Monitoring E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Module 4: Validation, Verification, and Monitoring",
+    "fileName": "21MARCH_COM_FMM4.zip"
+  },
+  {
+    "topicTitle": "Программа: Foreign Materials Management Module 5: What Would You Do? E-learning Essential",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Module 5: What Would You Do?",
+    "fileName": "21MARCH_COM_FMM5.zip"
+  },
+  {
+    "topicTitle": "Программа: Foreign Materials Management Module 6: Summary E-Learning",
+    "blockType": "scorm",
+    "blockName": "Foreign Materials Management Module 6: Summary",
+    "fileName": "21MARCH_COM_FMM6.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 0: Welcome E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nWelcome Module (English)",
+    "fileName": "19APR_RD_LQAT_WM_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 1: Legal Accountabilities E-Learning",
+    "blockType": "scorm",
+    "blockName": "Module 1: Quality Legal Accountabilities (English)",
+    "fileName": "19APR_RD_LQAT_QLA_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 2: Accountabilities Matrix E-Learning",
+    "blockType": "scorm",
+    "blockName": "Module 2: Quality Accountabilities Matrix (English)",
+    "fileName": "19APR_RD_LQAT_QAM_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 3: My Quality Health Check E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nModule 3: My Quality Health Check (English)",
+    "fileName": "19APR_RD_LQAT_MQHC_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 4: Mars Quality Standards E-Learning",
+    "blockType": "scorm",
+    "blockName": "Module 4: Mars Quality Standards (English)",
+    "fileName": "19APR_RD_LQAT_MQS_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 5: Site Visit Checklist E-Learning",
+    "blockType": "scorm",
+    "blockName": "Module 5: Site Visit Checklist (English)",
+    "fileName": "19APR_RD_LQAT_SVC_EN.zip"
+  },
+  {
+    "topicTitle": "Программа: Leadership Quality Accountability Toolkit (for Senior Leaders only) Module 6: Additional Resources E-Learning",
+    "blockType": "scorm",
+    "blockName": "\nModule 6: Additional Resources (English)",
+    "fileName": "19APR_RD_LQAT_AR_EN.zip"
+  },
+  {
+    "topicTitle": "Category Essential ONE Pager",
+    "blockType": "Презентация",
+    "blockName": "Category Essential ONE Pager",
+    "fileName": "Category Essentials Infographic FINAL.pdf"
+  },
+  {
+    "topicTitle": "E-learning на основе книги Джима Кэмпа \"Сначала скажите нет\"",
+    "blockType": "scorm",
+    "blockName": "E-learning на основе книги Джима Кэмпа \"Сначала скажите нет\"",
+    "fileName": "Переговоры. 11 правил Кэмпа.zip"
+  },
+  {
+    "topicTitle": "Shopper психология:как устроен наш мозг? Mars Petcare E-learning",
+    "blockType": "scorm",
+    "blockName": "Shopper психология:как устроен наш мозг? Mars Petcare",
+    "fileName": "Shopper e-learning_Dual System Theory.pdf"
+  },
+  {
+    "topicTitle": "Видеотренажер по технике работы с возражениями E-learning",
+    "blockType": "scorm",
+    "blockName": "Видеотренажер по технике работы с возражениями",
+    "fileName": "МОРОЗ видео диалог.zip"
+  },
+  {
+    "topicTitle": "Коммуникации с партнерами с учетом закона о заемном труде E-learning",
+    "blockType": "scorm",
+    "blockName": "Коммуникации с партнерами с учетом закона о заемном труде",
+    "fileName": "Закон о заемном труде.zip"
+  },
+  {
+    "topicTitle": "Category Essential Mars Wrigley E-learning",
+    "blockType": "scorm",
+    "blockName": "Category Essential Mars Wrigley",
+    "fileName": "Category Essential.zip"
+  },
+  {
+    "topicTitle": "Базовые инструкции по запуску и настройке программы SAP",
+    "blockType": "презентация",
+    "blockName": "Базовые инструкции по запуску и настройке программы SAP",
+    "fileName": "Atals Hints&Tips 2023.pdf"
+  },
+  {
+    "topicTitle": "P&L overview Pdf",
+    "blockType": "презентация",
+    "blockName": "P&L overview",
+    "fileName": "P&L overview 1.pdf"
+  },
+  {
+    "topicTitle": "P&L overview Pdf",
+    "blockType": "презентация",
+    "blockName": "Задача",
+    "fileName": "Задача.pdf"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Цикл менеджмента как инструмент управления результатом",
+    "fileName": "Territory Management. Цикл Менеджмента.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Анализ и планирование: планирование действий на основе найденных при анализе инсайтов",
+    "fileName": "Territory Management. Анализ и планирование.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Организация: Рекрутмент, Ресурсы, Процессы",
+    "fileName": "Territory management. Организация.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Руководство. Вводный курс",
+    "fileName": "Руководство_ВИДЕОНАВИГАТОР_1.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Ситуационное руководство как ключевой инструмент эффективной коммуникации с сотрудниками в организации",
+    "fileName": "Territory management. Руководство. Ситуационное руководство.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Собрание команды: фасилитация командных встреч и принципы группового руководства",
+    "fileName": "Territory management. Руководство. СОБРАНИЕ.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Беседа 1-2-1. Способы эффективной и результативной постановки задач при индивидуальном взаимодействии",
+    "fileName": "Беседа 1-1.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Принципы обучения взрослых людей",
+    "fileName": "Territory management. Обучение. м1 Принципы.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Обучение. ON JOB TRAINING",
+    "fileName": "Territory management. Обучение. м2 OJT .zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Мотивация",
+    "fileName": "Мотивация.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Контроль и оценка",
+    "fileName": "Territory Management Контроль и оценка.zip"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "презентация",
+    "blockName": "Книга стандартов",
+    "fileName": "Книга стандартов. 9 глав с таблицами (1).pdf"
+  },
+  {
+    "topicTitle": "Territory Management: управление результатом на территории E-learning",
+    "blockType": "scorm",
+    "blockName": "Кейс Baby Boom",
+    "fileName": "Кейс Baby Boom 2021.zip"
+  },
+  {
+    "topicTitle": "Mars Project Management E-Learning",
+    "blockType": "scorm",
+    "blockName": "Mars Project Management",
+    "fileName": "\tC10328v2.zip"
+  },
+  {
+    "topicTitle": "Ethics and Compliance at Mars: Doing Business with Integrity E-Learning",
+    "blockType": "scorm",
+    "blockName": "Ethics and Compliance at Mars: Doing Business with Integrity",
+    "fileName": "Mars Ethics and Compliance RUv2.zip"
+  },
+  {
+    "topicTitle": "The Quality Management Process (QMP) Overview E-Learning",
+    "blockType": "scorm",
+    "blockName": "The Quality Management Process (QMP) Overview E-Learning (Essential) Lesson 1",
+    "fileName": "4360.zip"
+  },
+  {
+    "topicTitle": "The Quality Management Process (QMP) Overview E-Learning",
+    "blockType": "презентация",
+    "blockName": "QMP Document",
+    "fileName": "4360_v2.pdf"
+  },
+  {
+    "topicTitle": "Regulatory Compliance of Food Contact Materials E-Learning",
+    "blockType": "scorm",
+    "blockName": "Regulatory Compliance of Food Contact Materials",
+    "fileName": "17JUN_R&D_REG_EN_V1.zip"
+  },
+  {
+    "topicTitle": "Safety in Office E-Learning",
+    "blockType": "scorm",
+    "blockName": "Safety in Office",
+    "fileName": "\t21JUL_MSE_SIO.zip"
+  },
+  {
+    "topicTitle": "Confidential Information at Mars E-learning",
+    "blockType": "scorm",
+    "blockName": "Confidential Information at Mars",
+    "fileName": "Mars_CI_Russian.zip"
+  },
+  {
+    "topicTitle": "Privacy at Mars: Protecting and Securing Personal Information E- Learning",
+    "blockType": "scorm",
+    "blockName": "Privacy at Mars: Protecting and Securing Personal Information",
+    "fileName": "11701_v2.zip"
+  },
+  {
+    "topicTitle": "E-Sourcing Parts I and II E-Learning",
+    "blockType": "scorm",
+    "blockName": "E-Sourcing Parts: TE2041",
+    "fileName": "20DEC_COMM_ESOURC5_V1.zip"
+  },
+  {
+    "topicTitle": "E-Sourcing Parts I and II E-Learning",
+    "blockType": "scorm",
+    "blockName": "E-Sourcing Parts: TE9003",
+    "fileName": "20DEC_COMM_ESOURC2_V1.zip"
+  },
+  {
+    "topicTitle": "E-Sourcing Parts I and II E-Learning",
+    "blockType": "scorm",
+    "blockName": "E-Sourcing Parts: TE2042",
+    "fileName": "20DEC_COMM_ESOURC4_V1.zip"
+  },
+  {
+    "topicTitle": "E-Sourcing Parts I and II E-Learning",
+    "blockType": "scorm",
+    "blockName": "E-Sourcing Parts: Te9004",
+    "fileName": "20DEC_COMM_ESOURC1_V1.zip"
+  },
+  {
+    "topicTitle": "E-Sourcing Parts I and II E-Learning",
+    "blockType": "scorm",
+    "blockName": "E-Sourcing Parts: TE2045",
+    "fileName": "20DEC_COMM_ESOURC3_V1.zip"
+  },
+  {
+    "topicTitle": "IEOM Introduction to the Essence of Mars - Digital Learning E-Learning",
+    "blockType": "scorm",
+    "blockName": "IEOM Introduction to the Essence of Mars - Digital Learning",
+    "fileName": "IEOM_Russia_ver2.zip"
+  },
+  {
+    "topicTitle": "Anti-Corruption E-Learning",
+    "blockType": "scorm",
+    "blockName": "Anti-Corruption",
+    "fileName": "14660.zip"
+  },
+  {
+    "topicTitle": "Mars Drive Safe Induction E-Learning",
+    "blockType": "scorm",
+    "blockName": "Mars Drive Safe Induction E-Learning",
+    "fileName": "\t19APR_SUPI_MDSI_RU.zip"
+  },
+  {
+    "topicTitle": "The Role of the HQRM Accountable Risk Owner Video",
+    "blockType": "видео",
+    "blockName": "The Role of the HQRM Accountable Risk Owner Video",
+    "fileName": "C10014.mp4"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "I&D Navigator - Get it Together",
+    "fileName": "828000_v2.zip"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "Building Bridges",
+    "fileName": "827008_v2.zip"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "Stand By Me",
+    "fileName": "827006_v2.zip"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "Knowing Me, Knowing You",
+    "fileName": "827007_v2.zip"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "Now We're Talking",
+    "fileName": "827009_v2.zip"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "Minus the Bias",
+    "fileName": "827004_v2.zip"
+  },
+  {
+    "topicTitle": "I&D Experience for all Associates Program",
+    "blockType": "scorm",
+    "blockName": "Inclusion & Diversity Advocate Social Badge",
+    "fileName": "C10095_V2.zip"
+  },
+  {
+    "topicTitle": "Change management learning journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Why Change Management? | Defining why Change Management Capability is important to your project",
+    "fileName": "d88327af296bd71220990990105969b8.mp4"
+  },
+  {
+    "topicTitle": "Change management learning journey E-Learning",
+    "blockType": "видео",
+    "blockName": "The case for building change capability",
+    "fileName": "Zhcq6K5aSp6jv0DHrKNW_738ac7a37bb650df9e1d5a3dff1aa9a2.mp4"
+  },
+  {
+    "topicTitle": "Change management learning journey E-Learning",
+    "blockType": "видео",
+    "blockName": "ADKAR - Awareness, Desire, Knowledge, Ability, Reinforcement",
+    "fileName": "MCU5fEUwRgetOAKZnVQq_71314a147f56f474649c42675e012a1b.mp4"
+  },
+  {
+    "topicTitle": "Change management learning journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Building Your Change Capability Resources Info Sheet",
+    "fileName": "Building Change Capability 1 pager V0.5 (1).pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Progressive Maintenance Learning Objectives",
+    "fileName": "1.PM Learning Objectives.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "PM Introduction Presentation",
+    "fileName": "2.pm Introduction.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "PM Guidebook Presentation",
+    "fileName": "PM-Guidebook.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "PM Welcome Video",
+    "fileName": "we9hIazVTBK0KTJGKO4Q_dc723400ba9afd2d1d1fffcfe5164470.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "How does the PM Pillar Interact with the rest of MSE? Presentation",
+    "fileName": "5PM - MSE connection.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "MSE Framework Video",
+    "fileName": "hZ28wmZiSemClr1xlc6d_MSE Framework - MMU Smartcard - 1_1667822651_14705892.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Mindset & Behaviours Presentation",
+    "fileName": "PM - Mand B.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Pillar Team Go & See Presentation",
+    "fileName": "Day 1 - PM- Pillar Team GoSee Capture Form - v2 2020Jul13.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Lubrication Management DMS Presentation",
+    "fileName": "1.pm Lubrication Management EE.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Lubrication Management DMS - PM Pillar Video",
+    "fileName": "OSU3hC7fQyCI7y7OzFsa_9003f6e97b9adbd06727fbb62c460459.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Lubrication Management- Storage Rooms Presentation",
+    "fileName": "4.pm Lubrication Management- Lube Storage Rooms.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Stockroom Management DMS Welcome Presentation",
+    "fileName": "4.pm Stockroom Management Essential Element Intro.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Stockroom Management DMS - PM Pillar Video",
+    "fileName": "W8CTGjZ2Q3yG7vSaWk6e_78e30e54f891f0f2a9e7d07d25138099.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Stockroom Management deep-dive Presentation",
+    "fileName": "day 2 Stockroom Management deep-dive-v1-2020jul08.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Stockroom Management Standards Video",
+    "fileName": "MGBpR1icTbub88Uq2rfg_acc446a1b8a1b971cabd38c0382c2285.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "2 Receiving storage standards deep dive Presentation",
+    "fileName": "2 receiving-storage-standards-deep-dive-v1-2020jul08.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Go & See Exploration Lubrication and Stockroom Management Presentation",
+    "fileName": "Day 2 - LM SM - GoSee Capture Form - v3 2020Jul13.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Pillar Assessment Presentation",
+    "fileName": "pillar-assessment-document (13).pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Breakdown Elimination DMS Welcome Presentation",
+    "fileName": "1.pm Breakdown Elimination Essential Element Intro.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Breakdown Elimination relates to Implementation Step 2 Correct Weaknesses. Next, let’s review the standard definitions failures, breakdowns, etc Presentation",
+    "fileName": "1. failure-definition-v2-2020june10.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "1. Failure-Definition Presentation",
+    "fileName": "1. failure-definition-v2-2020june10 (1).pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Failure Classification Presentation",
+    "fileName": "2.failure-classifications-v1-2020june02.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Baseline Calculations Presentation",
+    "fileName": "3.baseline-calculations-v1-2020june02.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "BDE - Breakdown Analysis Card - for visibility please download",
+    "fileName": "BDE - Breakdown Analysis Card V1.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "BDE - Mars Dice Chart",
+    "fileName": "BDE - Mars Dice Chart V1.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "AM Support DMS Welcome Presentation",
+    "fileName": "pm AM support Essential Element Intro.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Details of AM Support Presentation",
+    "fileName": "Details of AM Support - v2 2020Jul15.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Equipment Ranking Presentation",
+    "fileName": "4. equipment-ranking-v1-2020june02.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "AM Support DMS - PM Pillar Video",
+    "fileName": "LRRbbUpKSRu88Sd5F4uK_83a409e3cdea2bb10e174e0a8ca9ec17.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Go & See Exploration Presentation",
+    "fileName": "Day 3 - AM Support - GoSee Capture Form - v3 2020Jul13.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Pillar Assessment Presentation",
+    "fileName": "pillar-assessment-document (13_).pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Maintenance Planning and Scheduling DMS Introduction Presentation",
+    "fileName": "PM Maintenance Planning and Scheduling Essential Element Intro.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Maintenance Planning and Scheduling DMS Owner Responsibilities Presentation",
+    "fileName": "4 - Maintenance Planning and Scheduling EE Owner Responsibilities - v2 2020Jul13.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Planning and Scheduling Video",
+    "fileName": "0GNL6WwvQB22nT76i0EB_MSE PM Day 6 - v2_1709908626_3545721.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Workflow Examples Presentation",
+    "fileName": "PM Maintenance Planning and Scheduling Essential Element  Workflow Examples.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Workflow Examples 2 Presentation",
+    "fileName": "1.work-flow-examples-v1-2020june03.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Maintenance Planning and Scheduling DMS SIMPTWW",
+    "fileName": "PM Maintenance Planning and Scheduling Essential Element  SIMPTWW.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "SIMPTWW",
+    "fileName": "2. SIMPTWW - v2 2020Jul15.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "SIMPTWW Template",
+    "fileName": "3. SIMPTWW Template .pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Exloration SIMPTWW Activity - Capture Form",
+    "fileName": "Day 4 - SIMPTWW Activity - Capture Form - v3 2020Jul15.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Maintenance Costs DMS Introduction Presentation",
+    "fileName": "PM Maintenance Cost Essential Element Intro.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "What are Maintenance Costs? Presentation",
+    "fileName": "PM Maintenance Costs Essential Element What are Maintenance Costs.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Target Budget Setting Presentation",
+    "fileName": "Day 4 - Target  Budget Setting - v2 2020Jul13.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Go & See Maintenance Cost Presentation",
+    "fileName": "Day 4 - Maintenance Costs Go  See Capture Form - v4 2020Jul15.pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "PdM DMS Overview Video",
+    "fileName": "O40mOfq8RjGDlcKZnbaP_968db52c460eb3d7ef68aef966b396dd_1709892468_10665349.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Asset Life Cycle and Mtx Strategies Video",
+    "fileName": "Q7VO3E9bSAm8AjUCzcNf_1696bef4bb23134f8bb414a9cd8bf337_1709893042_10665369.mp4"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "PM Pillar Assessment Presentation",
+    "fileName": "pillar-assessment-document (13_).pdf"
+  },
+  {
+    "topicTitle": "Progressive Maintenance Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Go & See Exploration: Predictive Maintenance Presentation",
+    "fileName": "PM PIllar Pred Main Explroation Activity Capture Form.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "What is the Purpose of an MSE Pillar? Presentation",
+    "fileName": "What is the purpose of a Pillar.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Building Crucial Capabilities of your Pillar",
+    "fileName": "Building critical capabilities of your Pillar.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Pillar Management Guidebook",
+    "fileName": "MSE - Pillar Management Guidebook.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Capability Building Resources Presentation",
+    "fileName": "Capability Building Resources (1).pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Teach Coach Assess Presentation",
+    "fileName": "Teach Coach Assess.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Supporting Pillar Maturity",
+    "fileName": "Supporting Pillar Maturity.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Plan Example 1",
+    "fileName": "example-strategic-pillar-plan-4647fbbd-2f348c34 (1).pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Plan Example 2",
+    "fileName": "ssip-example-2-552ce3c6 (1).pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Exploration Activity Template Presentation",
+    "fileName": "day-5-ssip-exploration-activity-form-b785560a (1).pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "MSE Assessment",
+    "fileName": "MSE Assessment.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "MSE Collaboration Presentation",
+    "fileName": "MSE Collaboration.pdf"
+  },
+  {
+    "topicTitle": "Pillar Management E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Pillar Assessment Presentation",
+    "fileName": "pillar-assessment-document (14).pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Focused Improvement Objectives Presentation",
+    "fileName": "fi -objectives.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Sign in to your account",
+    "fileName": "FI Guidebook.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "видео",
+    "blockName": "Focused Improvement Introduction Video",
+    "fileName": "0R8ID9R7Q8CjGRiJqZcn_48282198d400b9719171d544b21e229e.mp4"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "How the Focused Improvement Pillar Interacts with the rest of MSE",
+    "fileName": "day-1-mse-fi-formula-one-analogy-v3-2017-aug01.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "видео",
+    "blockName": "MSE Implementation Steps: Go to your Pillar Guidebook and read more about your Pillar Implementation Steps Video",
+    "fileName": "WozkjXeDT1WduN5Cg9Ne_a02634dbf2ff27f8d68b5c3d665a727e.mp4"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Implementation Steps Presentation",
+    "fileName": "fi -implementation.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Teamstructure Presentation",
+    "fileName": "fi-teamstructure-v4-2017aug21.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Observable Behaviors: Take a moment to share: •A few observable behaviors you would expect to see of the FI Pillar Take a look at the contributions from your peers and add your comments in the discussion forum.",
+    "fileName": "fi-observable-behaviors-v1-2018-mar06.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Go & See Teamstructure: Share and discuss with your MSE coach",
+    "fileName": "fi-intro-gosee-capture-form-v2-2020apr07.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Essential Element FI Process Presentation",
+    "fileName": "fi -intro to FI process.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "видео",
+    "blockName": "Infinite Loop Video",
+    "fileName": "eQYjLCKQ32Ruq2S6wpgm_0814986d4feb16e72c8028d25d1e7c8b.mp4"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Process KPI Exploration Presentation",
+    "fileName": "FI Process kpi.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Process Go&Seee Presentation",
+    "fileName": "fi-the-fi-process-gosee-capture-form-v2-2020apr08.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI - Infinite Loop Assessment - please download",
+    "fileName": "Copy of Copy of FI - Infinite Loop Assessment-V4.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Process Pillar Assessment: As with all our Essential Elements, as you explore the new standards you will start to identify strengths and opportunities where processes and systems at your site can be improved. Its important that you capture these insights as you go along, as they will help you complete your FI Pillar 90-Day Plan at the end of this learning journey.",
+    "fileName": "fi-pillar-assessment-document-v2-2020ap07.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Loss Analysis Presentation",
+    "fileName": "fi -welcome to FI loss analysis.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "How to define a Loss Presentation",
+    "fileName": "fi -intro to FI how to loss analysis.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "видео",
+    "blockName": "Loss Analysis Video",
+    "fileName": "urEL8lZWRAGlvheFxZbF_1851c02d8bc157a76f691682ea933025.mp4"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Loss Tree Presentation",
+    "fileName": "fi -intro to FI loss tree.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Cost Loss Tree Methodology Presentation",
+    "fileName": "cost-loss-tree-methodology-v3-2019-oct-03.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Loss Analysis - Balances Overview Presentation",
+    "fileName": "Fi - Loss Analysis - Balances Overview - v2 2020Apr21.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI: Data Systems Presentation",
+    "fileName": "fi -intro to FI loss - data systems intro.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Loss Analysis: Data Systems Presentation",
+    "fileName": "loss-analysis-data-systems.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Building a Loss Tree Presentation",
+    "fileName": "fi-loss-analysis-building-a-loss-tree.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Loss Analysis KPIs Presentation",
+    "fileName": "fi-loss-analysis-kpis.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Loss Analysis Go & See Presentation",
+    "fileName": "fi-loss-analysis-gosee-capture-form-v1-2020mar26_BzLjZ8J.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Bridge Chart Example Presentation",
+    "fileName": "fi-bridge-chart-example_VOaNkaf.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FI Problem Solving Presentation",
+    "fileName": "fi -welcome to FI lProblem solving.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Видео",
+    "blockName": "FI: Join the Dots Podcast",
+    "fileName": "ty4xkVQERZK9ya54Xckg_a0e32fd88b80b68e88ba63c3b1c71e60.mp4"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Problem solving methodology Presentation",
+    "fileName": "Problem solving methodology intro.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Problem Solving Methods Presentation",
+    "fileName": "mse_fi_problemsolvingmethodshandout_v6-2019-april-11.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Please download the file: In manufacturing, the majority of problems are typically resolved via using Basic Problem Solving methodology. Depending on problem complexity, Associates would use the form in full or just the first few steps of the method. These problems would normally be deviations to standards. Complex problem solving methods are used less frequently while their purpose would normally be to improve current standards. Spend a few minutes exploring our Basic and Complex Problem Solving Assessment Tools.",
+    "fileName": "Basic Problem Solving Assesment tool v3.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Complex Problem Solving Assesment: please download",
+    "fileName": "Copy of FI - Complex Problem Solving Assesment.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Download the file: We are now going to explore an example of complex problem solving. This example draws on something you maybe familiar with in your home life … preparing for a half-marathon. Download and explore this case study, along with the Complex Problem Solving Assessment Form",
+    "fileName": "pdca-halfmarathon.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Complex Problem Solving Example Line-5 Process Waste Presentation",
+    "fileName": "complex-problem-solving-example-complex-problem-line-5-process-waste-002.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Complex Problem Solving Example Peterborough Case-study",
+    "fileName": "complex-problem-solving-example-peterborough-petcare-complex-problem-solving-case-study-v2-2019-oct-10.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Measuring Problem Solving Effectiveness Presentation",
+    "fileName": "fi-problem-solving-measuring-effectiveness-of-ps.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Problem Solving and Coaching Presentation",
+    "fileName": "fi-problem-solving-and-coaching.pdf"
+  },
+  {
+    "topicTitle": "Onboarding for Focused Improvement E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Problem Solving Go & See Presentation",
+    "fileName": "fi-problem-solving-gosee-capture-form-v2-2020apr08.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Welcome to FMOS Presentation",
+    "fileName": "1FMOS - objectives.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FMOS Guidebook",
+    "fileName": "FMOS Guidebook (1).pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FMOS - Intro Presentation",
+    "fileName": "FMOS - Intro.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Welcome to FMOS Video",
+    "fileName": "kZEo77HTRF67Xo4Xp7SQ_6fd9a57bfc62ddc5a3eca06ab2a22d02.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "MSE Framework Video",
+    "fileName": "hZ28wmZiSemClr1xlc6d_MSE Framework - MMU Smartcard - 1_1667822651_14705892.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Understanding Factory Layout & Organization Presentation",
+    "fileName": "day1 fmos factory layout.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Go & See Activity Presentation",
+    "fileName": "day-1-fmos-current-site-fmos-gosee-capture-form-v1-2020apr20_O98C1jB.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - welcome KRI setting Presentation",
+    "fileName": "FMOS - welcome kpi setting.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - Leading and Lagging KPI Presentation",
+    "fileName": "FMOS - Leading and Lagging KPI.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Pillar Assessment Document Presentation",
+    "fileName": "pillar-assessment-document (9).pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Work Instruction Template for KPI Setting Presentation",
+    "fileName": "Day 1 Exploration Activity Form.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - welcome DMS setting Presentation",
+    "fileName": "FMOS - welcome DMS setting.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Introduction to DMS Foundational Element Presentation",
+    "fileName": "eEd8gQ4OQySc2JJv3xYO_c8dd42536a32e56d110da3e956639175.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - Ownership DMS Presentation",
+    "fileName": "FMOS - Ownership DMS.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Pillar RND DMS Presentation",
+    "fileName": "RND DMS.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "DMS Key Takeaways: Take a look at the document below as a summary of the Daily Management System Foundational Element of the FMOS Pillar.",
+    "fileName": "day-2-fmos-dms-takeaways-v2-2020may11.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "DMS Exploration Activity Capture Form Presentation",
+    "fileName": "Day 2 DMS EE Exploration Activity Form.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Pillar Assessment Document Presentation",
+    "fileName": "pillar-assessment-document (9) (1).pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - welcome Problem Solving Management Presentation",
+    "fileName": "FMOS - welcome Problem Solving Management.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Problem Solving Management Overview Presentation",
+    "fileName": "FMOS problem-solving-overview.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Link Between FMOS Problem Solving Management and MSE Focused Improvement Pillar",
+    "fileName": "day-8-mse-fmos-problem-solving-analogy-v2-2017-dec15.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Problem Solving Management Flow Presentation",
+    "fileName": "mse-fmos-problem-solving-flow-v4-2020-jan-07-proprint.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "EXPLORATION – Preparation for Problem Solving Management Go & See Activity Presentation",
+    "fileName": "Day 2 PS EE Exploration Activity Form.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Pillar Assessment Document",
+    "fileName": "pillar-assessment-document (9) (2).pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - welcome Escalation Management Presentation",
+    "fileName": "FMOS - welcome Escalation Management.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Escalation Management Overview Presentation",
+    "fileName": "Day 3 - FMOS - Esc Mgmt Overview - v2 2020May14.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Escalation Management: Shifting the way we work Presentation",
+    "fileName": "day-3-fmos-esc-mgmt-v2-2020apr24.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "Go & See on Escalation Management Presentation",
+    "fileName": "Day 4 EM EE Exploration Activity Form.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Pillar Assessment Document",
+    "fileName": "pillar-assessment-document (9) (3).pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - Welcome Meeting Structure Essential Element Presentation",
+    "fileName": "FMOS - Welcome Meeting Structure Essential Element.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS Connection Point Meetings Presentation",
+    "fileName": "day-4-mse-fmos-connection-meetings-v2-2017-jun12.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "презентация",
+    "blockName": "FMOS - Why We Are Transforming Our Meeting Structures in FMOS Presentation",
+    "fileName": "FMOS - Why We Are Transforming Our Meeting Structures in FMOS.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Connection Point 1 Video",
+    "fileName": "1wn8OxUBSdeXAHM4y02F_181ca9c6c8bc64dabe4ed710d7d60e50.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Connection Point 2 Video",
+    "fileName": "BCUXN1CkTXGyEdmoDlRs_83220e202f3cacade66c374eb0aa0199.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Connection Point 3 Video",
+    "fileName": "q3lXciLRyOe0MbUMfMlv_5c4591ca233c3035b2b7d32fe4a493fb.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "видео",
+    "blockName": "Connection Point 4 Video",
+    "fileName": "PVpruAtRdO9YPcAjMXtG_42b2e551e4be46ad96bba980b3931ab1.mp4"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FMOS Connection Point Meetings Presentation",
+    "fileName": "mse-fmos-cp-meeting-posters-v6-2019-nov12-usproprint.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FMOS Connection Point Meetings: coaching cards CP 0-4; please download",
+    "fileName": "Copy of 090-mse-fmos-cp0-1-2-3- 4 -coaching-card .pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Go & See Connection Point Meetings Presentation",
+    "fileName": "Day 3 Meeting Structure EE Exploration Activity Form.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FMOS Pillar Assessment Document",
+    "fileName": "pillar-assessment-document (9)4.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Connection Point Meeeting Structure Presentation",
+    "fileName": "FMOS структура.pdf"
+  },
+  {
+    "topicTitle": "FMOS Onboarding Journey E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Meeting Structure Overview Presentation",
+    "fileName": "FMOS - Day 3 - Meeting Structure Overview - v1 - 2020May18.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Welcome to the MSE Leadership Pillar Presentation",
+    "fileName": "Welcome to the MSE Leadership Pillar.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Purpose of the Leadership Pillar Training Presentation",
+    "fileName": "Purpose of the Leadership Pillar Training.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "LS Guidebook",
+    "fileName": "LS Guidebook.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Watch this “Introduction to the Leadership Pillar” video to understand more about the Leadership Pillar and the benefits you see the MSE Leadership Pillar bringing to you and your site",
+    "fileName": "u41JFyW2R2aDLJ073lgR_c9b45c68f71776f6cabe461ad146dbc5.mp4"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Why Leadership is important Presentation",
+    "fileName": "Why Leadership is important.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "The Leadership Elements Presentation",
+    "fileName": "The Leadership Elements.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Leadership Elements Overview Presentation",
+    "fileName": "leadership-elements-v1_gjcXWVK.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "MSE Framework Video",
+    "fileName": "hZ28wmZiSemClr1xlc6d_MSE Framework - MMU Smartcard - 1_1667822651_14705892.mp4"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "How does the Leadership Pillar Interact with the Rest of MSE?",
+    "fileName": "LS -MSE connections.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "LS Team Structure Presentation",
+    "fileName": "LS -team structure.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Intro Capable Organization Presentation",
+    "fileName": "Intro Capable organization.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "DMS Owner",
+    "fileName": "dms-owner-1pager-e7fec094.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Capability Building",
+    "fileName": "capability-building-1pager-50fb12bc (1).pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Development Plan Overview",
+    "fileName": "development-plan1pager-3846478d.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Factory Skills Matrix",
+    "fileName": "factory-skills-matrix-1pager-97159f00.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "HPC Overview",
+    "fileName": "hpc-1pager-f80a8037.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Skills Matrix Overview",
+    "fileName": "skills-matrix-1pager-4006f190.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Talent Development & Succession Planning Overview",
+    "fileName": "talent-development-and-succession-planning-1pager-2cbd6f27.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Triad Overview",
+    "fileName": "triad-1pager-2b900389.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "New Responsibilities Presentation",
+    "fileName": "3. new-responsibilities.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Organisation Structure Presentation",
+    "fileName": "4. Organisational structures.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Ownership and Accountability Presentation",
+    "fileName": "5. ownership-and-accountability.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "LS -DMS Ownership and Accountability Presentation",
+    "fileName": "LS -DMS Ownership and Accountability.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Capability Building Template: The next part of your exploration activities requires you to consider Capability Building. Reflect on your current organization in the Capability Building Document below. Spend some time doing a gap analysis of your organization against the required qualification levels of the MSE Roles. Please download the file.",
+    "fileName": "7. capability-building-template.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Example on Capability Building Score Card: please download for better visibility",
+    "fileName": "6.example-mwna-capability-building-score-card.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Leadership Pillar Assessment Document",
+    "fileName": "pillar-assessment-document (10).pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Pillar Assessments Presentation",
+    "fileName": "pillar-assessment-document (10) (1).pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Intro Setting Strategic Direction Presentation",
+    "fileName": "Intro Setting Strategic Direction.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Strategic Cascade Presentation",
+    "fileName": "Strategic Cascade.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Creating A Robust CBN Presentation",
+    "fileName": "Creating a Robust CBN.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Example 1: Cascade From Loss Analysis To SSIP To Governance",
+    "fileName": "ssip-chb-v2-6b93fda6.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Example 2: Cascade From Loss Analysis To SSIP To Governance",
+    "fileName": "example-ssip-mom-1-year-94b5b3cd_d732b347-dc20c619-422a90ca.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Exploration Activity Template Presentation",
+    "fileName": "day-2-set-clear-direction-3d563650.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Intro Deliver Consistently Superior Results Presentation",
+    "fileName": "Intro Deliver Consistently Superior Results.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "The Bouncing Ball Presentation",
+    "fileName": "The Bouncing Ball.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Exploration Go & See Activity - Deliver consistent results Presentation",
+    "fileName": "day-2-deliver-consistent-results-go-see-capture-form_w0a81wb_a5360c7d-d475b5b5.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Pillar Assessments Presentation",
+    "fileName": "pillar-assessment-document (1.0).pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Intro Engage and Energize Presentation",
+    "fileName": "Intro Engage and Energize.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Engage and Energize Example Video",
+    "fileName": "OU7Ka1QaRDCKiRJ5my4Y_a325885df40286cfa9c6c85373061c21.mp4"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Example: Engage and Energize",
+    "fileName": "1. example-engage-and-energize.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Example Global MSE newsletter",
+    "fileName": "2. global-mse-newsletter-q4-2020.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Example MSE newsletter",
+    "fileName": "3. mse-newsletter-9-screenshot-tekst.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Gain Buy-in Video",
+    "fileName": "CJv8GqbYSYCAmjdnH2dc_972148edcca9a23cf7a4bd6258c603b4.mp4"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "ADKAR - Awareness, Desire, Knowledge, Ability, Reinforcement Video",
+    "fileName": "MCU5fEUwRgetOAKZnVQq_71314a147f56f474649c42675e012a1b.mp4"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Tips for a change story: An engaging Change Story will make a tangible different to a transformation’s success and engages the hearts and minds of our Associates. There is an art to creating a compelling Change Story. Just look at some examples",
+    "fileName": "day-3-engage-ad-energize-tips-for-change-story.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Intro Nurture the Culture Presentation",
+    "fileName": "Intro Nurture the Culture.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Current State, Future State & Tools Capture Template",
+    "fileName": "nurture-the-culture-a5bab9a2.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "No Meeting Zone Presentation",
+    "fileName": "no-meeting-zone-1pager-8f0e9ce3.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "FMOS Coaching Presentation",
+    "fileName": "fmos-coaching-copy-be4e93d7.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Coaching Problem Solving Presentation",
+    "fileName": "coaching-ps-1pager-b54eace5.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "Go & See Presentation",
+    "fileName": "gosee-1pager-3128c607.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "Презентация",
+    "blockName": "MSE Coaching Presentation",
+    "fileName": "1. -nurture-the-culture-mse-coaching.pdf"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Coaching Example Video",
+    "fileName": "xn32FQsPSQKqQGSt9ghA_3368865dc1f534cdd1da33101a9304c7.mp4"
+  },
+  {
+    "topicTitle": "Leadership Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Process Confirmation: Let’s remember that the aim of Leadership is to build the capabilities of our Associates and Leaders in order to drive performance and behavior in line with the site strategy. One component of this is to drive the mindset of commitment to standards through Process Confirmation and develop people first. Let’s spend a few minutes deep-diving into what we mean by Process Confirmation, why it is important and what the process is.",
+    "fileName": "2. nurture-the-culture-process-confirmation.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Safety Learning Objectives Presentation",
+    "fileName": "Safety Learning Objectives.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Safety - Terminology Reference Presentation",
+    "fileName": "Safety - Terminology Reference - V1 2020 Apr 16.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Introduction to MSE Safety Pillar Video",
+    "fileName": "OneaBfIIQhGhpyMicuSD_6647017c55e476e810c7c4c4501ad8ba.mp4"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Zero Loss Journey Presentation",
+    "fileName": "zero loss .pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "A Day in the Life of a MSE Safety Pillar Presentation",
+    "fileName": "a day in the life of safety.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Mindset and Behaviour Presentation",
+    "fileName": "Mindset and Behaviour.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Explore: It’s time to prepare to get active. Complete an activity to explore the make up of your Safety Pillar Team at your site.",
+    "fileName": "day-1-safety-pillar-team-gosee-capture-form-v1-2020apr13.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Implementation Steps and Bradley Curve Presentation",
+    "fileName": "Day 1 - Imp Steps  Bradley Curve - v5 2020May05.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Safety Pillar Pre-Cursor Requirements Presentation",
+    "fileName": "day-1-precursor-req-go-see-capture-form-v3-2020apr21.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Safety Pillar Guidebook Step 0-4",
+    "fileName": "Safety - Pillar Guidebook - Step 0-4.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management System Essential Element",
+    "fileName": "HSE Management System.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "HSE Management System: Risk and Losses Video",
+    "fileName": "IwZC5HeoTCqutaRbgqMG_a73db9f3b744f2919560f3076bc5ce99.mp4"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management System Initial Risk Assessment Presentation",
+    "fileName": "HSE Management System Initial Risk Assessment.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Risk Assessment Deep Dive Presentation",
+    "fileName": "Safety - Day 2 - Risk Assessment Deep Dive - v3 2020Apr13.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management System Qualitative Risk Assessment Presentation",
+    "fileName": "HSE Management System Qualitative Risk Assessment.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management System Legal Registry/ Legal Requirements Presentation",
+    "fileName": "HSE Management System Legal Registry.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management Exploration Legal Registry see next smart cards with Example Presentation",
+    "fileName": "HSE Management Exploration Legal Registry.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Safety Legal Registry Capture form Presentation",
+    "fileName": "safety-day-2-legal-registry-capture-form-v4-2020apr24.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Example of Line 6 Legal Registry: For full visibility please download",
+    "fileName": "Copy of line-6-risk-register-004_zD56D5P.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Example of Legal Registry: please download via black icon top left for proper visibility",
+    "fileName": "Copy of mse_hse_example-of-legal-registry-1_EATFTT6.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Copy of mse_hse_example-of-legal-registry-1_EATFTT6.pdf",
+    "fileName": "HSE Management General Safety Rules.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Example General Safety Guideline",
+    "fileName": "day-8-hse-tools-element-2-general-safety-guidelines-rules_v2_2017nov06.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management Checking and Review Presentation",
+    "fileName": "HSE Management Checking and Renew.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "HSE - Connections Podcast",
+    "fileName": "RLZELBUwT4Gui8LyNEjv_10fac6413a70556ccca7af8e7b3330f7.mp4"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "HSE Management Checking and Renew: Share your reflection with your Coach Presentation",
+    "fileName": "HSE Management Checking and Renew Reflect.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Welcome to Incident Management Essential Element Presentation",
+    "fileName": "Incident Management EE.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Incident Management Deep Dive Presentation",
+    "fileName": "day-2-incident-management-deep-dive-v3-2020apr14.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Incident Management Go & See Activity: share with your coach Presentation",
+    "fileName": "day-2-inc-management-go-see-capture-form-v2-2020apr24.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Welcome to Daily Confirmation Presentation",
+    "fileName": "Daily Confirmation.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Confirmation Overview Presentation",
+    "fileName": "day-4-daily-safety-confirmation-overview-v2-2020apr14.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Confirmation Deep Dive Presentation",
+    "fileName": "day-4-dsts-deep-dive-v2-2020apr21-latest.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Example Visual Board",
+    "fileName": "visual-board-standard-example.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Example Level Cards",
+    "fileName": "level-cards-rv1.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Confirmation Form",
+    "fileName": "dsts-form-daily-rv1.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "DSC in action Video",
+    "fileName": "ZdPpuykWSGtJCsndAacu_886eb9acb8d38619254ef86f6b4129a2.mp4"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Safety Confirmation Trigger Presentation",
+    "fileName": "Daily Safety Trigger.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Safety Trigger Cycle Presentation",
+    "fileName": "day-4-dsts-daily-cycle-overview-v2-2020apr14.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Safety Confirmation Go & See activity Presentation",
+    "fileName": "day-4-dsts-go-see-capture-form-v1-2020apr04.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Daily Safety Confirmation Walk Presentation",
+    "fileName": "8.  Safety Conversation Walk- v3 2020Aaug17.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "SCW Example",
+    "fileName": "scw-example.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Safety Conversation Walk Tracking From",
+    "fileName": "Copy of safety-safety-conversation-walk-tracking-r0.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Critical Risk Confirmation Presentation",
+    "fileName": "MSE_Safety_Critical Risk Confirmation Gallery Walk V3 2018 Oct 09 [ProPRINT].pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "SAC Video",
+    "fileName": "35adIt92Sr6JUbYQTB9P_bacc0007d92f8fca25cdcefc11554a80.mp4"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Stop Assess Control Deep Dive Presentation",
+    "fileName": "day-5-sac-v1-2020apr04.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Stop Assess Control Activity Presentation",
+    "fileName": "SAC go and See.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Go & See activity: The Role of the Pillar Lead Presentation",
+    "fileName": "Day 5 - Role of Pillar Lead Go & See Capture Form - v1 2020Apr04.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Critical Risk Confirmation Example",
+    "fileName": "Critical Risk Confirmation Mock.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "презентация",
+    "blockName": "Peer Observation EE Presentation",
+    "fileName": "peer observation.pdf"
+  },
+  {
+    "topicTitle": "Safety Pillar Onboarding E-Learning",
+    "blockType": "видео",
+    "blockName": "Peer Observation Essential Element Video",
+    "fileName": "sEQxcqoVQsWZ8Hjlk5mp_a00c3b112301aeb2d631951d605da78a.mp4"
   }
 ]

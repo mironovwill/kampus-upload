@@ -1,46 +1,46 @@
 {
-  "Corporate Affairs": {
-    "id" : 2452,
-    "name" : "Corporate Affairs"
+  "corporate affairs": {
+    "id": 1100,
+    "name": "Corporate Affairs"
   },
-  "Finance": {
-    "id" : 2453,
-    "name" : "Finance"
+  "finance": {
+    "id": 1150,
+    "name": "Finance"
   },
-  "Legal": {
-    "id" : 2454,
-    "name" : "Legal"
+  "legal": {
+    "id": 1450,
+    "name": "Legal"
   },
-  "Marketing": {
-    "id" : 2455,
-    "name" : "Marketing"
+  "marketing": {
+    "id": 1250,
+    "name": "Marketing"
   },
-  "P&O": {
-    "id" : 2456,
-    "name" : "P&O"
+  "p&o": {
+    "id": 1300,
+    "name": "P&O"
   },
-  "R&D": {
-    "id" : 2457,
-    "name" : "R&D"
+  "r&d": {
+    "id": 1200,
+    "name": "R&D"
   },
-  "Sales": {
-    "id" : 2451,
-    "name" : "Sales"
+  "sales": {
+    "id": 1000,
+    "name": "Sales"
   },
-  "Digital Technologies": {
-    "id" : 2458,
-    "name" : "Sales"
+  "digital technologies": {
+    "id": 1350,
+    "name": "digital Technologies"
   },
-  "S&OP": {
-    "id" : 2459,
-    "name" : "S&OP"
+  "s&op": {
+    "id": 1500,
+    "name": "S&OP"
   },
-  "Supply": {
-    "id" : 2460,
-    "name" : "Supply"
+  "supply": {
+    "id": 1050,
+    "name": "Supply"
   },
-  "Commercial": {
-    "id" : 2461,
-    "name" : "Commercial"
+  "commercial": {
+    "id": 1400,
+    "name": "Commercial"
   }
 }

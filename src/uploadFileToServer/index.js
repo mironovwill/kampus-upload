@@ -14,8 +14,6 @@ async function uploadFileToServer(filePath, url, token) {
   form.append('file', fs.createReadStream(filePath));
 
   try {
-    await new Promise((resolve) => setTimeout(resolve, 1000)); // задержка 1 секунда
-
     const response = await axios.post(url, form, {
       headers: {
         ...form.getHeaders(),
@@ -25,10 +23,9 @@ async function uploadFileToServer(filePath, url, token) {
       },
       httpsAgent: agent
     });
-    console.log(response.data)
     return response.data;
   } catch (error) {
-    console.error('Ошибка при отправке файла:', error);
+    console.error('Ошибка при отправке файла:', error.response.status);
   }
 }
 

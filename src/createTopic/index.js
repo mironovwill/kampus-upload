@@ -12,6 +12,7 @@ const agent = new https.Agent({
 });
 
 const result = [];
+const errors = [];
 
 async function createTopic(url, token, body) {
   try {
@@ -24,7 +25,8 @@ async function createTopic(url, token, body) {
 
     result.push({ [response.data.name]: response.data.publicUrl });
   } catch (error) {
-    result.push({ error: error });
+    result.push({ [body.name]: null });
+    errors.push(body);
     console.error('Ошибка при отправке файла:', error.response.data);
   }
 }
@@ -33,12 +35,13 @@ const createdTopics = completedTopics.map((topic) =>
   createTopic(process.env.TOPIC_CREATE_URL, process.env.TOKEN, topic)
 );
 
-Promise.all(createdTopics)
+Promise.allSettled(createdTopics)
   .then(() => {
-    return createFile(
+    createFile(
       path.join(process.env.PARSE_CSV_RESULT_FOLDER_PATCH, process.env.DONE_TOPICS_JSON_NAME),
       result
     );
+    createFile(path.join(process.env.PARSE_CSV_RESULT_FOLDER_PATCH, 'errors.json'), errors);
   })
   .catch((err) => {
     console.log(err);
